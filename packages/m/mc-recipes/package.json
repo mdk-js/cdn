@@ -1,0 +1,19 @@
+{
+  "name": "@wikijs/mc-recipes",
+  "version": "1.0.0",
+  "description": "",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "minecrafat",
+    "recipe"
+  ],
+  "files": [
+    "dist",
+    "package.json",
+    "readme.md"
+  ],
+  "author": "",
+  "license": "MIT"
+}

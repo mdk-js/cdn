@@ -1,0 +1,5856 @@
+.stone {
+    background-image: url(./1.16.png);
+    background-position: 0px 0px;
+    width: 32px;
+    height: 32px;
+}
+.granite {
+    background-image: url(./1.16.png);
+    background-position: -32px 0px;
+    width: 32px;
+    height: 32px;
+}
+.polished_granite {
+    background-image: url(./1.16.png);
+    background-position: 0px -32px;
+    width: 32px;
+    height: 32px;
+}
+.diorite {
+    background-image: url(./1.16.png);
+    background-position: -32px -32px;
+    width: 32px;
+    height: 32px;
+}
+.polished_diorite {
+    background-image: url(./1.16.png);
+    background-position: -64px 0px;
+    width: 32px;
+    height: 32px;
+}
+.andesite {
+    background-image: url(./1.16.png);
+    background-position: -64px -32px;
+    width: 32px;
+    height: 32px;
+}
+.polished_andesite {
+    background-image: url(./1.16.png);
+    background-position: 0px -64px;
+    width: 32px;
+    height: 32px;
+}
+.grass_block {
+    background-image: url(./1.16.png);
+    background-position: -32px -64px;
+    width: 32px;
+    height: 32px;
+}
+.dirt {
+    background-image: url(./1.16.png);
+    background-position: -64px -64px;
+    width: 32px;
+    height: 32px;
+}
+.coarse_dirt {
+    background-image: url(./1.16.png);
+    background-position: -96px 0px;
+    width: 32px;
+    height: 32px;
+}
+.podzol {
+    background-image: url(./1.16.png);
+    background-position: -96px -32px;
+    width: 32px;
+    height: 32px;
+}
+.cobblestone {
+    background-image: url(./1.16.png);
+    background-position: -96px -64px;
+    width: 32px;
+    height: 32px;
+}
+.oak_planks {
+    background-image: url(./1.16.png);
+    background-position: 0px -96px;
+    width: 32px;
+    height: 32px;
+}
+.spruce_planks {
+    background-image: url(./1.16.png);
+    background-position: -32px -96px;
+    width: 32px;
+    height: 32px;
+}
+.birch_planks {
+    background-image: url(./1.16.png);
+    background-position: -64px -96px;
+    width: 32px;
+    height: 32px;
+}
+.jungle_planks {
+    background-image: url(./1.16.png);
+    background-position: -96px -96px;
+    width: 32px;
+    height: 32px;
+}
+.acacia_planks {
+    background-image: url(./1.16.png);
+    background-position: -128px 0px;
+    width: 32px;
+    height: 32px;
+}
+.dark_oak_planks {
+    background-image: url(./1.16.png);
+    background-position: -128px -32px;
+    width: 32px;
+    height: 32px;
+}
+.oak_sapling {
+    background-image: url(./1.16.png);
+    background-position: -128px -64px;
+    width: 32px;
+    height: 32px;
+}
+.spruce_sapling {
+    background-image: url(./1.16.png);
+    background-position: -128px -96px;
+    width: 32px;
+    height: 32px;
+}
+.birch_sapling {
+    background-image: url(./1.16.png);
+    background-position: 0px -128px;
+    width: 32px;
+    height: 32px;
+}
+.jungle_sapling {
+    background-image: url(./1.16.png);
+    background-position: -32px -128px;
+    width: 32px;
+    height: 32px;
+}
+.acacia_sapling {
+    background-image: url(./1.16.png);
+    background-position: -64px -128px;
+    width: 32px;
+    height: 32px;
+}
+.dark_oak_sapling {
+    background-image: url(./1.16.png);
+    background-position: -96px -128px;
+    width: 32px;
+    height: 32px;
+}
+.bedrock {
+    background-image: url(./1.16.png);
+    background-position: -128px -128px;
+    width: 32px;
+    height: 32px;
+}
+.sand {
+    background-image: url(./1.16.png);
+    background-position: -160px 0px;
+    width: 32px;
+    height: 32px;
+}
+.red_sand {
+    background-image: url(./1.16.png);
+    background-position: -160px -32px;
+    width: 32px;
+    height: 32px;
+}
+.gravel {
+    background-image: url(./1.16.png);
+    background-position: -160px -64px;
+    width: 32px;
+    height: 32px;
+}
+.coal_ore {
+    background-image: url(./1.16.png);
+    background-position: -160px -96px;
+    width: 32px;
+    height: 32px;
+}
+.iron_ore {
+    background-image: url(./1.16.png);
+    background-position: -160px -128px;
+    width: 32px;
+    height: 32px;
+}
+.gold_ore {
+    background-image: url(./1.16.png);
+    background-position: 0px -160px;
+    width: 32px;
+    height: 32px;
+}
+.lapis_ore {
+    background-image: url(./1.16.png);
+    background-position: -32px -160px;
+    width: 32px;
+    height: 32px;
+}
+.redstone_ore {
+    background-image: url(./1.16.png);
+    background-position: -64px -160px;
+    width: 32px;
+    height: 32px;
+}
+.diamond_ore {
+    background-image: url(./1.16.png);
+    background-position: -96px -160px;
+    width: 32px;
+    height: 32px;
+}
+.emerald_ore {
+    background-image: url(./1.16.png);
+    background-position: -128px -160px;
+    width: 32px;
+    height: 32px;
+}
+.nether_quartz_ore {
+    background-image: url(./1.16.png);
+    background-position: -160px -160px;
+    width: 32px;
+    height: 32px;
+}
+.coal_block {
+    background-image: url(./1.16.png);
+    background-position: -192px 0px;
+    width: 32px;
+    height: 32px;
+}
+.iron_block {
+    background-image: url(./1.16.png);
+    background-position: -192px -32px;
+    width: 32px;
+    height: 32px;
+}
+.gold_block {
+    background-image: url(./1.16.png);
+    background-position: -192px -64px;
+    width: 32px;
+    height: 32px;
+}
+.lapis_block {
+    background-image: url(./1.16.png);
+    background-position: -192px -96px;
+    width: 32px;
+    height: 32px;
+}
+.redstone_block {
+    background-image: url(./1.16.png);
+    background-position: -192px -128px;
+    width: 32px;
+    height: 32px;
+}
+.diamond_block {
+    background-image: url(./1.16.png);
+    background-position: -192px -160px;
+    width: 32px;
+    height: 32px;
+}
+.emerald_block {
+    background-image: url(./1.16.png);
+    background-position: 0px -192px;
+    width: 32px;
+    height: 32px;
+}
+.quartz_block {
+    background-image: url(./1.16.png);
+    background-position: -32px -192px;
+    width: 32px;
+    height: 32px;
+}
+.chiseled_quartz_block {
+    background-image: url(./1.16.png);
+    background-position: -64px -192px;
+    width: 32px;
+    height: 32px;
+}
+.quartz_pillar {
+    background-image: url(./1.16.png);
+    background-position: -96px -192px;
+    width: 32px;
+    height: 32px;
+}
+.smooth_quartz {
+    background-image: url(./1.16.png);
+    background-position: -128px -192px;
+    width: 32px;
+    height: 32px;
+}
+.quartz_stairs {
+    background-image: url(./1.16.png);
+    background-position: -160px -192px;
+    width: 32px;
+    height: 32px;
+}
+.quartz_slab {
+    background-image: url(./1.16.png);
+    background-position: -192px -192px;
+    width: 32px;
+    height: 32px;
+}
+.oak_log {
+    background-image: url(./1.16.png);
+    background-position: -224px 0px;
+    width: 32px;
+    height: 32px;
+}
+.spruce_log {
+    background-image: url(./1.16.png);
+    background-position: -224px -32px;
+    width: 32px;
+    height: 32px;
+}
+.birch_log {
+    background-image: url(./1.16.png);
+    background-position: -224px -64px;
+    width: 32px;
+    height: 32px;
+}
+.jungle_log {
+    background-image: url(./1.16.png);
+    background-position: -224px -96px;
+    width: 32px;
+    height: 32px;
+}
+.acacia_log {
+    background-image: url(./1.16.png);
+    background-position: -224px -128px;
+    width: 32px;
+    height: 32px;
+}
+.dark_oak_log {
+    background-image: url(./1.16.png);
+    background-position: -224px -160px;
+    width: 32px;
+    height: 32px;
+}
+.oak_wood {
+    background-image: url(./1.16.png);
+    background-position: -224px -192px;
+    width: 32px;
+    height: 32px;
+}
+.spruce_wood {
+    background-image: url(./1.16.png);
+    background-position: 0px -224px;
+    width: 32px;
+    height: 32px;
+}
+.birch_wood {
+    background-image: url(./1.16.png);
+    background-position: -32px -224px;
+    width: 32px;
+    height: 32px;
+}
+.jungle_wood {
+    background-image: url(./1.16.png);
+    background-position: -64px -224px;
+    width: 32px;
+    height: 32px;
+}
+.acacia_wood {
+    background-image: url(./1.16.png);
+    background-position: -96px -224px;
+    width: 32px;
+    height: 32px;
+}
+.dark_oak_wood {
+    background-image: url(./1.16.png);
+    background-position: -128px -224px;
+    width: 32px;
+    height: 32px;
+}
+.stripped_oak_log {
+    background-image: url(./1.16.png);
+    background-position: -160px -224px;
+    width: 32px;
+    height: 32px;
+}
+.stripped_spruce_log {
+    background-image: url(./1.16.png);
+    background-position: -192px -224px;
+    width: 32px;
+    height: 32px;
+}
+.stripped_birch_log {
+    background-image: url(./1.16.png);
+    background-position: -224px -224px;
+    width: 32px;
+    height: 32px;
+}
+.stripped_jungle_log {
+    background-image: url(./1.16.png);
+    background-position: -256px 0px;
+    width: 32px;
+    height: 32px;
+}
+.stripped_acacia_log {
+    background-image: url(./1.16.png);
+    background-position: -256px -32px;
+    width: 32px;
+    height: 32px;
+}
+.stripped_dark_oak_log {
+    background-image: url(./1.16.png);
+    background-position: -256px -64px;
+    width: 32px;
+    height: 32px;
+}
+.stripped_oak_wood {
+    background-image: url(./1.16.png);
+    background-position: -256px -96px;
+    width: 32px;
+    height: 32px;
+}
+.stripped_spruce_wood {
+    background-image: url(./1.16.png);
+    background-position: -256px -128px;
+    width: 32px;
+    height: 32px;
+}
+.stripped_birch_wood {
+    background-image: url(./1.16.png);
+    background-position: -256px -160px;
+    width: 32px;
+    height: 32px;
+}
+.stripped_jungle_wood {
+    background-image: url(./1.16.png);
+    background-position: -256px -192px;
+    width: 32px;
+    height: 32px;
+}
+.stripped_acacia_wood {
+    background-image: url(./1.16.png);
+    background-position: -256px -224px;
+    width: 32px;
+    height: 32px;
+}
+.stripped_dark_oak_wood {
+    background-image: url(./1.16.png);
+    background-position: 0px -256px;
+    width: 32px;
+    height: 32px;
+}
+.oak_leaves {
+    background-image: url(./1.16.png);
+    background-position: -32px -256px;
+    width: 32px;
+    height: 32px;
+}
+.spruce_leaves {
+    background-image: url(./1.16.png);
+    background-position: -64px -256px;
+    width: 32px;
+    height: 32px;
+}
+.birch_leaves {
+    background-image: url(./1.16.png);
+    background-position: -96px -256px;
+    width: 32px;
+    height: 32px;
+}
+.jungle_leaves {
+    background-image: url(./1.16.png);
+    background-position: -128px -256px;
+    width: 32px;
+    height: 32px;
+}
+.acacia_leaves {
+    background-image: url(./1.16.png);
+    background-position: -160px -256px;
+    width: 32px;
+    height: 32px;
+}
+.dark_oak_leaves {
+    background-image: url(./1.16.png);
+    background-position: -192px -256px;
+    width: 32px;
+    height: 32px;
+}
+.sponge {
+    background-image: url(./1.16.png);
+    background-position: -224px -256px;
+    width: 32px;
+    height: 32px;
+}
+.wet_sponge {
+    background-image: url(./1.16.png);
+    background-position: -256px -256px;
+    width: 32px;
+    height: 32px;
+}
+.glass {
+    background-image: url(./1.16.png);
+    background-position: -288px 0px;
+    width: 32px;
+    height: 32px;
+}
+.dispenser {
+    background-image: url(./1.16.png);
+    background-position: -288px -32px;
+    width: 32px;
+    height: 32px;
+}
+.smooth_stone {
+    background-image: url(./1.16.png);
+    background-position: -288px -64px;
+    width: 32px;
+    height: 32px;
+}
+.stone_bricks {
+    background-image: url(./1.16.png);
+    background-position: -288px -96px;
+    width: 32px;
+    height: 32px;
+}
+.mossy_stone_bricks {
+    background-image: url(./1.16.png);
+    background-position: -288px -128px;
+    width: 32px;
+    height: 32px;
+}
+.cracked_stone_bricks {
+    background-image: url(./1.16.png);
+    background-position: -288px -160px;
+    width: 32px;
+    height: 32px;
+}
+.chiseled_stone_bricks {
+    background-image: url(./1.16.png);
+    background-position: -288px -192px;
+    width: 32px;
+    height: 32px;
+}
+.bricks {
+    background-image: url(./1.16.png);
+    background-position: -288px -224px;
+    width: 32px;
+    height: 32px;
+}
+.sandstone {
+    background-image: url(./1.16.png);
+    background-position: -288px -256px;
+    width: 32px;
+    height: 32px;
+}
+.chiseled_sandstone {
+    background-image: url(./1.16.png);
+    background-position: 0px -288px;
+    width: 32px;
+    height: 32px;
+}
+.cut_sandstone {
+    background-image: url(./1.16.png);
+    background-position: -32px -288px;
+    width: 32px;
+    height: 32px;
+}
+.smooth_sandstone {
+    background-image: url(./1.16.png);
+    background-position: -64px -288px;
+    width: 32px;
+    height: 32px;
+}
+.red_sandstone {
+    background-image: url(./1.16.png);
+    background-position: -96px -288px;
+    width: 32px;
+    height: 32px;
+}
+.chiseled_red_sandstone {
+    background-image: url(./1.16.png);
+    background-position: -128px -288px;
+    width: 32px;
+    height: 32px;
+}
+.cut_red_sandstone {
+    background-image: url(./1.16.png);
+    background-position: -160px -288px;
+    width: 32px;
+    height: 32px;
+}
+.smooth_red_sandstone {
+    background-image: url(./1.16.png);
+    background-position: -192px -288px;
+    width: 32px;
+    height: 32px;
+}
+.infested_stone {
+    background-image: url(./1.16.png);
+    background-position: -224px -288px;
+    width: 32px;
+    height: 32px;
+}
+.infested_cobblestone {
+    background-image: url(./1.16.png);
+    background-position: -256px -288px;
+    width: 32px;
+    height: 32px;
+}
+.infested_stone_bricks {
+    background-image: url(./1.16.png);
+    background-position: -288px -288px;
+    width: 32px;
+    height: 32px;
+}
+.infested_mossy_stone_bricks {
+    background-image: url(./1.16.png);
+    background-position: -320px 0px;
+    width: 32px;
+    height: 32px;
+}
+.infested_cracked_stone_bricks {
+    background-image: url(./1.16.png);
+    background-position: -320px -32px;
+    width: 32px;
+    height: 32px;
+}
+.infested_chiseled_stone_bricks {
+    background-image: url(./1.16.png);
+    background-position: -320px -64px;
+    width: 32px;
+    height: 32px;
+}
+.note_block {
+    background-image: url(./1.16.png);
+    background-position: -320px -96px;
+    width: 32px;
+    height: 32px;
+}
+.sticky_piston {
+    background-image: url(./1.16.png);
+    background-position: -320px -128px;
+    width: 32px;
+    height: 32px;
+}
+.cobweb {
+    background-image: url(./1.16.png);
+    background-position: -320px -160px;
+    width: 32px;
+    height: 32px;
+}
+.grass {
+    background-image: url(./1.16.png);
+    background-position: -320px -192px;
+    width: 32px;
+    height: 32px;
+}
+.fern {
+    background-image: url(./1.16.png);
+    background-position: -320px -224px;
+    width: 32px;
+    height: 32px;
+}
+.dead_bush {
+    background-image: url(./1.16.png);
+    background-position: -320px -256px;
+    width: 32px;
+    height: 32px;
+}
+.piston {
+    background-image: url(./1.16.png);
+    background-position: -320px -288px;
+    width: 32px;
+    height: 32px;
+}
+.white_wool {
+    background-image: url(./1.16.png);
+    background-position: 0px -320px;
+    width: 32px;
+    height: 32px;
+}
+.orange_wool {
+    background-image: url(./1.16.png);
+    background-position: -32px -320px;
+    width: 32px;
+    height: 32px;
+}
+.magenta_wool {
+    background-image: url(./1.16.png);
+    background-position: -64px -320px;
+    width: 32px;
+    height: 32px;
+}
+.light_blue_wool {
+    background-image: url(./1.16.png);
+    background-position: -96px -320px;
+    width: 32px;
+    height: 32px;
+}
+.yellow_wool {
+    background-image: url(./1.16.png);
+    background-position: -128px -320px;
+    width: 32px;
+    height: 32px;
+}
+.lime_wool {
+    background-image: url(./1.16.png);
+    background-position: -160px -320px;
+    width: 32px;
+    height: 32px;
+}
+.pink_wool {
+    background-image: url(./1.16.png);
+    background-position: -192px -320px;
+    width: 32px;
+    height: 32px;
+}
+.gray_wool {
+    background-image: url(./1.16.png);
+    background-position: -224px -320px;
+    width: 32px;
+    height: 32px;
+}
+.light_gray_wool {
+    background-image: url(./1.16.png);
+    background-position: -256px -320px;
+    width: 32px;
+    height: 32px;
+}
+.cyan_wool {
+    background-image: url(./1.16.png);
+    background-position: -288px -320px;
+    width: 32px;
+    height: 32px;
+}
+.purple_wool {
+    background-image: url(./1.16.png);
+    background-position: -320px -320px;
+    width: 32px;
+    height: 32px;
+}
+.blue_wool {
+    background-image: url(./1.16.png);
+    background-position: -352px 0px;
+    width: 32px;
+    height: 32px;
+}
+.brown_wool {
+    background-image: url(./1.16.png);
+    background-position: -352px -32px;
+    width: 32px;
+    height: 32px;
+}
+.green_wool {
+    background-image: url(./1.16.png);
+    background-position: -352px -64px;
+    width: 32px;
+    height: 32px;
+}
+.red_wool {
+    background-image: url(./1.16.png);
+    background-position: -352px -96px;
+    width: 32px;
+    height: 32px;
+}
+.black_wool {
+    background-image: url(./1.16.png);
+    background-position: -352px -128px;
+    width: 32px;
+    height: 32px;
+}
+.dandelion {
+    background-image: url(./1.16.png);
+    background-position: -352px -160px;
+    width: 32px;
+    height: 32px;
+}
+.poppy {
+    background-image: url(./1.16.png);
+    background-position: -352px -192px;
+    width: 32px;
+    height: 32px;
+}
+.blue_orchid {
+    background-image: url(./1.16.png);
+    background-position: -352px -224px;
+    width: 32px;
+    height: 32px;
+}
+.allium {
+    background-image: url(./1.16.png);
+    background-position: -352px -256px;
+    width: 32px;
+    height: 32px;
+}
+.azure_bluet {
+    background-image: url(./1.16.png);
+    background-position: -352px -288px;
+    width: 32px;
+    height: 32px;
+}
+.red_tulip {
+    background-image: url(./1.16.png);
+    background-position: -352px -320px;
+    width: 32px;
+    height: 32px;
+}
+.orange_tulip {
+    background-image: url(./1.16.png);
+    background-position: 0px -352px;
+    width: 32px;
+    height: 32px;
+}
+.white_tulip {
+    background-image: url(./1.16.png);
+    background-position: -32px -352px;
+    width: 32px;
+    height: 32px;
+}
+.pink_tulip {
+    background-image: url(./1.16.png);
+    background-position: -64px -352px;
+    width: 32px;
+    height: 32px;
+}
+.oxeye_daisy {
+    background-image: url(./1.16.png);
+    background-position: -96px -352px;
+    width: 32px;
+    height: 32px;
+}
+.brown_mushroom {
+    background-image: url(./1.16.png);
+    background-position: -128px -352px;
+    width: 32px;
+    height: 32px;
+}
+.red_mushroom {
+    background-image: url(./1.16.png);
+    background-position: -160px -352px;
+    width: 32px;
+    height: 32px;
+}
+.oak_slab {
+    background-image: url(./1.16.png);
+    background-position: -192px -352px;
+    width: 32px;
+    height: 32px;
+}
+.spruce_slab {
+    background-image: url(./1.16.png);
+    background-position: -224px -352px;
+    width: 32px;
+    height: 32px;
+}
+.birch_slab {
+    background-image: url(./1.16.png);
+    background-position: -256px -352px;
+    width: 32px;
+    height: 32px;
+}
+.jungle_slab {
+    background-image: url(./1.16.png);
+    background-position: -288px -352px;
+    width: 32px;
+    height: 32px;
+}
+.acacia_slab {
+    background-image: url(./1.16.png);
+    background-position: -320px -352px;
+    width: 32px;
+    height: 32px;
+}
+.dark_oak_slab {
+    background-image: url(./1.16.png);
+    background-position: -352px -352px;
+    width: 32px;
+    height: 32px;
+}
+.smooth_stone_slab {
+    background-image: url(./1.16.png);
+    background-position: -384px 0px;
+    width: 32px;
+    height: 32px;
+}
+.petrified_oak_slab {
+    background-image: url(./1.16.png);
+    background-position: -384px -32px;
+    width: 32px;
+    height: 32px;
+}
+.cobblestone_slab {
+    background-image: url(./1.16.png);
+    background-position: -384px -64px;
+    width: 32px;
+    height: 32px;
+}
+.brick_slab {
+    background-image: url(./1.16.png);
+    background-position: -384px -96px;
+    width: 32px;
+    height: 32px;
+}
+.stone_brick_slab {
+    background-image: url(./1.16.png);
+    background-position: -384px -128px;
+    width: 32px;
+    height: 32px;
+}
+.sandstone_slab {
+    background-image: url(./1.16.png);
+    background-position: -384px -160px;
+    width: 32px;
+    height: 32px;
+}
+.red_sandstone_slab {
+    background-image: url(./1.16.png);
+    background-position: -384px -192px;
+    width: 32px;
+    height: 32px;
+}
+.nether_brick_slab {
+    background-image: url(./1.16.png);
+    background-position: -384px -224px;
+    width: 32px;
+    height: 32px;
+}
+.tnt {
+    background-image: url(./1.16.png);
+    background-position: -384px -256px;
+    width: 32px;
+    height: 32px;
+}
+.bookshelf {
+    background-image: url(./1.16.png);
+    background-position: -384px -288px;
+    width: 32px;
+    height: 32px;
+}
+.mossy_cobblestone {
+    background-image: url(./1.16.png);
+    background-position: -384px -320px;
+    width: 32px;
+    height: 32px;
+}
+.obsidian {
+    background-image: url(./1.16.png);
+    background-position: -384px -352px;
+    width: 32px;
+    height: 32px;
+}
+.torch {
+    background-image: url(./1.16.png);
+    background-position: 0px -384px;
+    width: 32px;
+    height: 32px;
+}
+.spawner {
+    background-image: url(./1.16.png);
+    background-position: -32px -384px;
+    width: 32px;
+    height: 32px;
+}
+.oak_stairs {
+    background-image: url(./1.16.png);
+    background-position: -64px -384px;
+    width: 32px;
+    height: 32px;
+}
+.spruce_stairs {
+    background-image: url(./1.16.png);
+    background-position: -96px -384px;
+    width: 32px;
+    height: 32px;
+}
+.birch_stairs {
+    background-image: url(./1.16.png);
+    background-position: -128px -384px;
+    width: 32px;
+    height: 32px;
+}
+.jungle_stairs {
+    background-image: url(./1.16.png);
+    background-position: -160px -384px;
+    width: 32px;
+    height: 32px;
+}
+.acacia_stairs {
+    background-image: url(./1.16.png);
+    background-position: -192px -384px;
+    width: 32px;
+    height: 32px;
+}
+.dark_oak_stairs {
+    background-image: url(./1.16.png);
+    background-position: -224px -384px;
+    width: 32px;
+    height: 32px;
+}
+.cobblestone_stairs {
+    background-image: url(./1.16.png);
+    background-position: -256px -384px;
+    width: 32px;
+    height: 32px;
+}
+.stone_brick_stairs {
+    background-image: url(./1.16.png);
+    background-position: -288px -384px;
+    width: 32px;
+    height: 32px;
+}
+.brick_stairs {
+    background-image: url(./1.16.png);
+    background-position: -320px -384px;
+    width: 32px;
+    height: 32px;
+}
+.sandstone_stairs {
+    background-image: url(./1.16.png);
+    background-position: -352px -384px;
+    width: 32px;
+    height: 32px;
+}
+.red_sandstone_stairs {
+    background-image: url(./1.16.png);
+    background-position: -384px -384px;
+    width: 32px;
+    height: 32px;
+}
+.chest {
+    background-image: url(./1.16.png);
+    background-position: -416px 0px;
+    width: 32px;
+    height: 32px;
+}
+.trapped_chest {
+    background-image: url(./1.16.png);
+    background-position: -416px -32px;
+    width: 32px;
+    height: 32px;
+}
+.ender_chest {
+    background-image: url(./1.16.png);
+    background-position: -416px -64px;
+    width: 32px;
+    height: 32px;
+}
+.shulker_box {
+    background-image: url(./1.16.png);
+    background-position: -416px -96px;
+    width: 32px;
+    height: 32px;
+}
+.white_shulker_box {
+    background-image: url(./1.16.png);
+    background-position: -416px -128px;
+    width: 32px;
+    height: 32px;
+}
+.orange_shulker_box {
+    background-image: url(./1.16.png);
+    background-position: -416px -160px;
+    width: 32px;
+    height: 32px;
+}
+.magenta_shulker_box {
+    background-image: url(./1.16.png);
+    background-position: -416px -192px;
+    width: 32px;
+    height: 32px;
+}
+.light_blue_shulker_box {
+    background-image: url(./1.16.png);
+    background-position: -416px -224px;
+    width: 32px;
+    height: 32px;
+}
+.yellow_shulker_box {
+    background-image: url(./1.16.png);
+    background-position: -416px -256px;
+    width: 32px;
+    height: 32px;
+}
+.lime_shulker_box {
+    background-image: url(./1.16.png);
+    background-position: -416px -288px;
+    width: 32px;
+    height: 32px;
+}
+.pink_shulker_box {
+    background-image: url(./1.16.png);
+    background-position: -416px -320px;
+    width: 32px;
+    height: 32px;
+}
+.gray_shulker_box {
+    background-image: url(./1.16.png);
+    background-position: -416px -352px;
+    width: 32px;
+    height: 32px;
+}
+.light_gray_shulker_box {
+    background-image: url(./1.16.png);
+    background-position: -416px -384px;
+    width: 32px;
+    height: 32px;
+}
+.cyan_shulker_box {
+    background-image: url(./1.16.png);
+    background-position: 0px -416px;
+    width: 32px;
+    height: 32px;
+}
+.purple_shulker_box {
+    background-image: url(./1.16.png);
+    background-position: -32px -416px;
+    width: 32px;
+    height: 32px;
+}
+.blue_shulker_box {
+    background-image: url(./1.16.png);
+    background-position: -64px -416px;
+    width: 32px;
+    height: 32px;
+}
+.brown_shulker_box {
+    background-image: url(./1.16.png);
+    background-position: -96px -416px;
+    width: 32px;
+    height: 32px;
+}
+.green_shulker_box {
+    background-image: url(./1.16.png);
+    background-position: -128px -416px;
+    width: 32px;
+    height: 32px;
+}
+.red_shulker_box {
+    background-image: url(./1.16.png);
+    background-position: -160px -416px;
+    width: 32px;
+    height: 32px;
+}
+.black_shulker_box {
+    background-image: url(./1.16.png);
+    background-position: -192px -416px;
+    width: 32px;
+    height: 32px;
+}
+.crafting_table {
+    background-image: url(./1.16.png);
+    background-position: -224px -416px;
+    width: 32px;
+    height: 32px;
+}
+.wheat {
+    background-image: url(./1.16.png);
+    background-position: -256px -416px;
+    width: 32px;
+    height: 32px;
+}
+.farmland {
+    background-image: url(./1.16.png);
+    background-position: -288px -416px;
+    width: 32px;
+    height: 32px;
+}
+.furnace {
+    background-image: url(./1.16.png);
+    background-position: -320px -416px;
+    width: 32px;
+    height: 32px;
+}
+.ladder {
+    background-image: url(./1.16.png);
+    background-position: -352px -416px;
+    width: 32px;
+    height: 32px;
+}
+.rail {
+    background-image: url(./1.16.png);
+    background-position: -384px -416px;
+    width: 32px;
+    height: 32px;
+}
+.powered_rail {
+    background-image: url(./1.16.png);
+    background-position: -416px -416px;
+    width: 32px;
+    height: 32px;
+}
+.detector_rail {
+    background-image: url(./1.16.png);
+    background-position: -448px 0px;
+    width: 32px;
+    height: 32px;
+}
+.activator_rail {
+    background-image: url(./1.16.png);
+    background-position: -448px -32px;
+    width: 32px;
+    height: 32px;
+}
+.lever {
+    background-image: url(./1.16.png);
+    background-position: -448px -64px;
+    width: 32px;
+    height: 32px;
+}
+.stone_pressure_plate {
+    background-image: url(./1.16.png);
+    background-position: -448px -96px;
+    width: 32px;
+    height: 32px;
+}
+.oak_pressure_plate {
+    background-image: url(./1.16.png);
+    background-position: -448px -128px;
+    width: 32px;
+    height: 32px;
+}
+.spruce_pressure_plate {
+    background-image: url(./1.16.png);
+    background-position: -448px -160px;
+    width: 32px;
+    height: 32px;
+}
+.birch_pressure_plate {
+    background-image: url(./1.16.png);
+    background-position: -448px -192px;
+    width: 32px;
+    height: 32px;
+}
+.jungle_pressure_plate {
+    background-image: url(./1.16.png);
+    background-position: -448px -224px;
+    width: 32px;
+    height: 32px;
+}
+.acacia_pressure_plate {
+    background-image: url(./1.16.png);
+    background-position: -448px -256px;
+    width: 32px;
+    height: 32px;
+}
+.dark_oak_pressure_plate {
+    background-image: url(./1.16.png);
+    background-position: -448px -288px;
+    width: 32px;
+    height: 32px;
+}
+.stone_button {
+    background-image: url(./1.16.png);
+    background-position: -448px -320px;
+    width: 32px;
+    height: 32px;
+}
+.snow {
+    background-image: url(./1.16.png);
+    background-position: -448px -352px;
+    width: 32px;
+    height: 32px;
+}
+.ice {
+    background-image: url(./1.16.png);
+    background-position: -448px -384px;
+    width: 32px;
+    height: 32px;
+}
+.packed_ice {
+    background-image: url(./1.16.png);
+    background-position: -448px -416px;
+    width: 32px;
+    height: 32px;
+}
+.frosted_ice {
+    background-image: url(./1.16.png);
+    background-position: 0px -448px;
+    width: 32px;
+    height: 32px;
+}
+.blue_ice {
+    background-image: url(./1.16.png);
+    background-position: -32px -448px;
+    width: 32px;
+    height: 32px;
+}
+.snow_block {
+    background-image: url(./1.16.png);
+    background-position: -64px -448px;
+    width: 32px;
+    height: 32px;
+}
+.cactus {
+    background-image: url(./1.16.png);
+    background-position: -96px -448px;
+    width: 32px;
+    height: 32px;
+}
+.clay {
+    background-image: url(./1.16.png);
+    background-position: -128px -448px;
+    width: 32px;
+    height: 32px;
+}
+.sugar_cane {
+    background-image: url(./1.16.png);
+    background-position: -160px -448px;
+    width: 32px;
+    height: 32px;
+}
+.jukebox {
+    background-image: url(./1.16.png);
+    background-position: -192px -448px;
+    width: 32px;
+    height: 32px;
+}
+.oak_fence {
+    background-image: url(./1.16.png);
+    background-position: -224px -448px;
+    width: 32px;
+    height: 32px;
+}
+.spruce_fence {
+    background-image: url(./1.16.png);
+    background-position: -256px -448px;
+    width: 32px;
+    height: 32px;
+}
+.birch_fence {
+    background-image: url(./1.16.png);
+    background-position: -288px -448px;
+    width: 32px;
+    height: 32px;
+}
+.jungle_fence {
+    background-image: url(./1.16.png);
+    background-position: -320px -448px;
+    width: 32px;
+    height: 32px;
+}
+.dark_oak_fence {
+    background-image: url(./1.16.png);
+    background-position: -352px -448px;
+    width: 32px;
+    height: 32px;
+}
+.acacia_fence {
+    background-image: url(./1.16.png);
+    background-position: -384px -448px;
+    width: 32px;
+    height: 32px;
+}
+.oak_fence_gate {
+    background-image: url(./1.16.png);
+    background-position: -416px -448px;
+    width: 32px;
+    height: 32px;
+}
+.spruce_fence_gate {
+    background-image: url(./1.16.png);
+    background-position: -448px -448px;
+    width: 32px;
+    height: 32px;
+}
+.birch_fence_gate {
+    background-image: url(./1.16.png);
+    background-position: -480px 0px;
+    width: 32px;
+    height: 32px;
+}
+.jungle_fence_gate {
+    background-image: url(./1.16.png);
+    background-position: -480px -32px;
+    width: 32px;
+    height: 32px;
+}
+.dark_oak_fence_gate {
+    background-image: url(./1.16.png);
+    background-position: -480px -64px;
+    width: 32px;
+    height: 32px;
+}
+.acacia_fence_gate {
+    background-image: url(./1.16.png);
+    background-position: -480px -96px;
+    width: 32px;
+    height: 32px;
+}
+.pumpkin {
+    background-image: url(./1.16.png);
+    background-position: -480px -128px;
+    width: 32px;
+    height: 32px;
+}
+.carved_pumpkin {
+    background-image: url(./1.16.png);
+    background-position: -480px -160px;
+    width: 32px;
+    height: 32px;
+}
+.jack_o_lantern {
+    background-image: url(./1.16.png);
+    background-position: -480px -192px;
+    width: 32px;
+    height: 32px;
+}
+.netherrack {
+    background-image: url(./1.16.png);
+    background-position: -480px -224px;
+    width: 32px;
+    height: 32px;
+}
+.soul_sand {
+    background-image: url(./1.16.png);
+    background-position: -480px -256px;
+    width: 32px;
+    height: 32px;
+}
+.glowstone {
+    background-image: url(./1.16.png);
+    background-position: -480px -288px;
+    width: 32px;
+    height: 32px;
+}
+.white_stained_glass {
+    background-image: url(./1.16.png);
+    background-position: -480px -320px;
+    width: 32px;
+    height: 32px;
+}
+.orange_stained_glass {
+    background-image: url(./1.16.png);
+    background-position: -480px -352px;
+    width: 32px;
+    height: 32px;
+}
+.magenta_stained_glass {
+    background-image: url(./1.16.png);
+    background-position: -480px -384px;
+    width: 32px;
+    height: 32px;
+}
+.light_blue_stained_glass {
+    background-image: url(./1.16.png);
+    background-position: -480px -416px;
+    width: 32px;
+    height: 32px;
+}
+.yellow_stained_glass {
+    background-image: url(./1.16.png);
+    background-position: -480px -448px;
+    width: 32px;
+    height: 32px;
+}
+.lime_stained_glass {
+    background-image: url(./1.16.png);
+    background-position: 0px -480px;
+    width: 32px;
+    height: 32px;
+}
+.pink_stained_glass {
+    background-image: url(./1.16.png);
+    background-position: -32px -480px;
+    width: 32px;
+    height: 32px;
+}
+.gray_stained_glass {
+    background-image: url(./1.16.png);
+    background-position: -64px -480px;
+    width: 32px;
+    height: 32px;
+}
+.light_gray_stained_glass {
+    background-image: url(./1.16.png);
+    background-position: -96px -480px;
+    width: 32px;
+    height: 32px;
+}
+.cyan_stained_glass {
+    background-image: url(./1.16.png);
+    background-position: -128px -480px;
+    width: 32px;
+    height: 32px;
+}
+.purple_stained_glass {
+    background-image: url(./1.16.png);
+    background-position: -160px -480px;
+    width: 32px;
+    height: 32px;
+}
+.blue_stained_glass {
+    background-image: url(./1.16.png);
+    background-position: -192px -480px;
+    width: 32px;
+    height: 32px;
+}
+.brown_stained_glass {
+    background-image: url(./1.16.png);
+    background-position: -224px -480px;
+    width: 32px;
+    height: 32px;
+}
+.green_stained_glass {
+    background-image: url(./1.16.png);
+    background-position: -256px -480px;
+    width: 32px;
+    height: 32px;
+}
+.red_stained_glass {
+    background-image: url(./1.16.png);
+    background-position: -288px -480px;
+    width: 32px;
+    height: 32px;
+}
+.black_stained_glass {
+    background-image: url(./1.16.png);
+    background-position: -320px -480px;
+    width: 32px;
+    height: 32px;
+}
+.oak_door {
+    background-image: url(./1.16.png);
+    background-position: -352px -480px;
+    width: 32px;
+    height: 32px;
+}
+.spruce_door {
+    background-image: url(./1.16.png);
+    background-position: -384px -480px;
+    width: 32px;
+    height: 32px;
+}
+.birch_door {
+    background-image: url(./1.16.png);
+    background-position: -416px -480px;
+    width: 32px;
+    height: 32px;
+}
+.jungle_door {
+    background-image: url(./1.16.png);
+    background-position: -448px -480px;
+    width: 32px;
+    height: 32px;
+}
+.acacia_door {
+    background-image: url(./1.16.png);
+    background-position: -480px -480px;
+    width: 32px;
+    height: 32px;
+}
+.dark_oak_door {
+    background-image: url(./1.16.png);
+    background-position: -512px 0px;
+    width: 32px;
+    height: 32px;
+}
+.iron_door {
+    background-image: url(./1.16.png);
+    background-position: -512px -32px;
+    width: 32px;
+    height: 32px;
+}
+.oak_trapdoor {
+    background-image: url(./1.16.png);
+    background-position: -512px -64px;
+    width: 32px;
+    height: 32px;
+}
+.spruce_trapdoor {
+    background-image: url(./1.16.png);
+    background-position: -512px -96px;
+    width: 32px;
+    height: 32px;
+}
+.birch_trapdoor {
+    background-image: url(./1.16.png);
+    background-position: -512px -128px;
+    width: 32px;
+    height: 32px;
+}
+.jungle_trapdoor {
+    background-image: url(./1.16.png);
+    background-position: -512px -160px;
+    width: 32px;
+    height: 32px;
+}
+.acacia_trapdoor {
+    background-image: url(./1.16.png);
+    background-position: -512px -192px;
+    width: 32px;
+    height: 32px;
+}
+.dark_oak_trapdoor {
+    background-image: url(./1.16.png);
+    background-position: -512px -224px;
+    width: 32px;
+    height: 32px;
+}
+.iron_trapdoor {
+    background-image: url(./1.16.png);
+    background-position: -512px -256px;
+    width: 32px;
+    height: 32px;
+}
+.brown_mushroom_block {
+    background-image: url(./1.16.png);
+    background-position: -512px -288px;
+    width: 32px;
+    height: 32px;
+}
+.red_mushroom_block {
+    background-image: url(./1.16.png);
+    background-position: -512px -320px;
+    width: 32px;
+    height: 32px;
+}
+.iron_bars {
+    background-image: url(./1.16.png);
+    background-position: -512px -352px;
+    width: 32px;
+    height: 32px;
+}
+.glass_pane {
+    background-image: url(./1.16.png);
+    background-position: -512px -384px;
+    width: 32px;
+    height: 32px;
+}
+.melon {
+    background-image: url(./1.16.png);
+    background-position: -512px -416px;
+    width: 32px;
+    height: 32px;
+}
+.vine {
+    background-image: url(./1.16.png);
+    background-position: -512px -448px;
+    width: 32px;
+    height: 32px;
+}
+.mycelium {
+    background-image: url(./1.16.png);
+    background-position: -512px -480px;
+    width: 32px;
+    height: 32px;
+}
+.lily_pad {
+    background-image: url(./1.16.png);
+    background-position: 0px -512px;
+    width: 32px;
+    height: 32px;
+}
+.nether_bricks {
+    background-image: url(./1.16.png);
+    background-position: -32px -512px;
+    width: 32px;
+    height: 32px;
+}
+.nether_brick_fence {
+    background-image: url(./1.16.png);
+    background-position: -64px -512px;
+    width: 32px;
+    height: 32px;
+}
+.nether_brick_stairs {
+    background-image: url(./1.16.png);
+    background-position: -96px -512px;
+    width: 32px;
+    height: 32px;
+}
+.nether_wart {
+    background-image: url(./1.16.png);
+    background-position: -128px -512px;
+    width: 32px;
+    height: 32px;
+}
+.enchanting_table {
+    background-image: url(./1.16.png);
+    background-position: -160px -512px;
+    width: 32px;
+    height: 32px;
+}
+.brewing_stand {
+    background-image: url(./1.16.png);
+    background-position: -192px -512px;
+    width: 32px;
+    height: 32px;
+}
+.cauldron {
+    background-image: url(./1.16.png);
+    background-position: -224px -512px;
+    width: 32px;
+    height: 32px;
+}
+.end_portal_frame {
+    background-image: url(./1.16.png);
+    background-position: -256px -512px;
+    width: 32px;
+    height: 32px;
+}
+.end_stone {
+    background-image: url(./1.16.png);
+    background-position: -288px -512px;
+    width: 32px;
+    height: 32px;
+}
+.dragon_egg {
+    background-image: url(./1.16.png);
+    background-position: -320px -512px;
+    width: 32px;
+    height: 32px;
+}
+.tripwire_hook {
+    background-image: url(./1.16.png);
+    background-position: -352px -512px;
+    width: 32px;
+    height: 32px;
+}
+.beacon {
+    background-image: url(./1.16.png);
+    background-position: -384px -512px;
+    width: 32px;
+    height: 32px;
+}
+.cobblestone_wall {
+    background-image: url(./1.16.png);
+    background-position: -416px -512px;
+    width: 32px;
+    height: 32px;
+}
+.mossy_cobblestone_wall {
+    background-image: url(./1.16.png);
+    background-position: -448px -512px;
+    width: 32px;
+    height: 32px;
+}
+.flower_pot {
+    background-image: url(./1.16.png);
+    background-position: -480px -512px;
+    width: 32px;
+    height: 32px;
+}
+.oak_button {
+    background-image: url(./1.16.png);
+    background-position: -512px -512px;
+    width: 32px;
+    height: 32px;
+}
+.spruce_button {
+    background-image: url(./1.16.png);
+    background-position: -544px 0px;
+    width: 32px;
+    height: 32px;
+}
+.birch_button {
+    background-image: url(./1.16.png);
+    background-position: -544px -32px;
+    width: 32px;
+    height: 32px;
+}
+.jungle_button {
+    background-image: url(./1.16.png);
+    background-position: -544px -64px;
+    width: 32px;
+    height: 32px;
+}
+.acacia_button {
+    background-image: url(./1.16.png);
+    background-position: -544px -96px;
+    width: 32px;
+    height: 32px;
+}
+.dark_oak_button {
+    background-image: url(./1.16.png);
+    background-position: -544px -128px;
+    width: 32px;
+    height: 32px;
+}
+.anvil {
+    background-image: url(./1.16.png);
+    background-position: -544px -160px;
+    width: 32px;
+    height: 32px;
+}
+.chipped_anvil {
+    background-image: url(./1.16.png);
+    background-position: -544px -192px;
+    width: 32px;
+    height: 32px;
+}
+.damaged_anvil {
+    background-image: url(./1.16.png);
+    background-position: -544px -224px;
+    width: 32px;
+    height: 32px;
+}
+.light_weighted_pressure_plate {
+    background-image: url(./1.16.png);
+    background-position: -544px -256px;
+    width: 32px;
+    height: 32px;
+}
+.heavy_weighted_pressure_plate {
+    background-image: url(./1.16.png);
+    background-position: -544px -288px;
+    width: 32px;
+    height: 32px;
+}
+.hopper {
+    background-image: url(./1.16.png);
+    background-position: -544px -320px;
+    width: 32px;
+    height: 32px;
+}
+.dropper {
+    background-image: url(./1.16.png);
+    background-position: -544px -352px;
+    width: 32px;
+    height: 32px;
+}
+.white_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -544px -384px;
+    width: 32px;
+    height: 32px;
+}
+.orange_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -544px -416px;
+    width: 32px;
+    height: 32px;
+}
+.magenta_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -544px -448px;
+    width: 32px;
+    height: 32px;
+}
+.light_blue_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -544px -480px;
+    width: 32px;
+    height: 32px;
+}
+.yellow_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -544px -512px;
+    width: 32px;
+    height: 32px;
+}
+.lime_terracotta {
+    background-image: url(./1.16.png);
+    background-position: 0px -544px;
+    width: 32px;
+    height: 32px;
+}
+.pink_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -32px -544px;
+    width: 32px;
+    height: 32px;
+}
+.gray_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -64px -544px;
+    width: 32px;
+    height: 32px;
+}
+.light_gray_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -96px -544px;
+    width: 32px;
+    height: 32px;
+}
+.cyan_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -128px -544px;
+    width: 32px;
+    height: 32px;
+}
+.purple_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -160px -544px;
+    width: 32px;
+    height: 32px;
+}
+.blue_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -192px -544px;
+    width: 32px;
+    height: 32px;
+}
+.brown_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -224px -544px;
+    width: 32px;
+    height: 32px;
+}
+.green_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -256px -544px;
+    width: 32px;
+    height: 32px;
+}
+.red_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -288px -544px;
+    width: 32px;
+    height: 32px;
+}
+.black_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -320px -544px;
+    width: 32px;
+    height: 32px;
+}
+.white_stained_glass_pane {
+    background-image: url(./1.16.png);
+    background-position: -352px -544px;
+    width: 32px;
+    height: 32px;
+}
+.orange_stained_glass_pane {
+    background-image: url(./1.16.png);
+    background-position: -384px -544px;
+    width: 32px;
+    height: 32px;
+}
+.magenta_stained_glass_pane {
+    background-image: url(./1.16.png);
+    background-position: -416px -544px;
+    width: 32px;
+    height: 32px;
+}
+.light_blue_stained_glass_pane {
+    background-image: url(./1.16.png);
+    background-position: -448px -544px;
+    width: 32px;
+    height: 32px;
+}
+.yellow_stained_glass_pane {
+    background-image: url(./1.16.png);
+    background-position: -480px -544px;
+    width: 32px;
+    height: 32px;
+}
+.lime_stained_glass_pane {
+    background-image: url(./1.16.png);
+    background-position: -512px -544px;
+    width: 32px;
+    height: 32px;
+}
+.pink_stained_glass_pane {
+    background-image: url(./1.16.png);
+    background-position: -544px -544px;
+    width: 32px;
+    height: 32px;
+}
+.gray_stained_glass_pane {
+    background-image: url(./1.16.png);
+    background-position: -576px 0px;
+    width: 32px;
+    height: 32px;
+}
+.light_gray_stained_glass_pane {
+    background-image: url(./1.16.png);
+    background-position: -576px -32px;
+    width: 32px;
+    height: 32px;
+}
+.cyan_stained_glass_pane {
+    background-image: url(./1.16.png);
+    background-position: -576px -64px;
+    width: 32px;
+    height: 32px;
+}
+.purple_stained_glass_pane {
+    background-image: url(./1.16.png);
+    background-position: -576px -96px;
+    width: 32px;
+    height: 32px;
+}
+.blue_stained_glass_pane {
+    background-image: url(./1.16.png);
+    background-position: -576px -128px;
+    width: 32px;
+    height: 32px;
+}
+.brown_stained_glass_pane {
+    background-image: url(./1.16.png);
+    background-position: -576px -160px;
+    width: 32px;
+    height: 32px;
+}
+.green_stained_glass_pane {
+    background-image: url(./1.16.png);
+    background-position: -576px -192px;
+    width: 32px;
+    height: 32px;
+}
+.red_stained_glass_pane {
+    background-image: url(./1.16.png);
+    background-position: -576px -224px;
+    width: 32px;
+    height: 32px;
+}
+.black_stained_glass_pane {
+    background-image: url(./1.16.png);
+    background-position: -576px -256px;
+    width: 32px;
+    height: 32px;
+}
+.slime_block {
+    background-image: url(./1.16.png);
+    background-position: -576px -288px;
+    width: 32px;
+    height: 32px;
+}
+.prismarine {
+    background-image: url(./1.16.png);
+    background-position: -576px -320px;
+    width: 32px;
+    height: 32px;
+}
+.prismarine_bricks {
+    background-image: url(./1.16.png);
+    background-position: -576px -352px;
+    width: 32px;
+    height: 32px;
+}
+.dark_prismarine {
+    background-image: url(./1.16.png);
+    background-position: -576px -384px;
+    width: 32px;
+    height: 32px;
+}
+.prismarine_stairs {
+    background-image: url(./1.16.png);
+    background-position: -576px -416px;
+    width: 32px;
+    height: 32px;
+}
+.prismarine_brick_stairs {
+    background-image: url(./1.16.png);
+    background-position: -576px -448px;
+    width: 32px;
+    height: 32px;
+}
+.dark_prismarine_stairs {
+    background-image: url(./1.16.png);
+    background-position: -576px -480px;
+    width: 32px;
+    height: 32px;
+}
+.prismarine_slab {
+    background-image: url(./1.16.png);
+    background-position: -576px -512px;
+    width: 32px;
+    height: 32px;
+}
+.prismarine_brick_slab {
+    background-image: url(./1.16.png);
+    background-position: -576px -544px;
+    width: 32px;
+    height: 32px;
+}
+.dark_prismarine_slab {
+    background-image: url(./1.16.png);
+    background-position: 0px -576px;
+    width: 32px;
+    height: 32px;
+}
+.sea_lantern {
+    background-image: url(./1.16.png);
+    background-position: -32px -576px;
+    width: 32px;
+    height: 32px;
+}
+.hay_block {
+    background-image: url(./1.16.png);
+    background-position: -64px -576px;
+    width: 32px;
+    height: 32px;
+}
+.white_carpet {
+    background-image: url(./1.16.png);
+    background-position: -96px -576px;
+    width: 32px;
+    height: 32px;
+}
+.orange_carpet {
+    background-image: url(./1.16.png);
+    background-position: -128px -576px;
+    width: 32px;
+    height: 32px;
+}
+.magenta_carpet {
+    background-image: url(./1.16.png);
+    background-position: -160px -576px;
+    width: 32px;
+    height: 32px;
+}
+.light_blue_carpet {
+    background-image: url(./1.16.png);
+    background-position: -192px -576px;
+    width: 32px;
+    height: 32px;
+}
+.yellow_carpet {
+    background-image: url(./1.16.png);
+    background-position: -224px -576px;
+    width: 32px;
+    height: 32px;
+}
+.lime_carpet {
+    background-image: url(./1.16.png);
+    background-position: -256px -576px;
+    width: 32px;
+    height: 32px;
+}
+.pink_carpet {
+    background-image: url(./1.16.png);
+    background-position: -288px -576px;
+    width: 32px;
+    height: 32px;
+}
+.gray_carpet {
+    background-image: url(./1.16.png);
+    background-position: -320px -576px;
+    width: 32px;
+    height: 32px;
+}
+.light_gray_carpet {
+    background-image: url(./1.16.png);
+    background-position: -352px -576px;
+    width: 32px;
+    height: 32px;
+}
+.cyan_carpet {
+    background-image: url(./1.16.png);
+    background-position: -384px -576px;
+    width: 32px;
+    height: 32px;
+}
+.purple_carpet {
+    background-image: url(./1.16.png);
+    background-position: -416px -576px;
+    width: 32px;
+    height: 32px;
+}
+.blue_carpet {
+    background-image: url(./1.16.png);
+    background-position: -448px -576px;
+    width: 32px;
+    height: 32px;
+}
+.brown_carpet {
+    background-image: url(./1.16.png);
+    background-position: -480px -576px;
+    width: 32px;
+    height: 32px;
+}
+.green_carpet {
+    background-image: url(./1.16.png);
+    background-position: -512px -576px;
+    width: 32px;
+    height: 32px;
+}
+.red_carpet {
+    background-image: url(./1.16.png);
+    background-position: -544px -576px;
+    width: 32px;
+    height: 32px;
+}
+.black_carpet {
+    background-image: url(./1.16.png);
+    background-position: -576px -576px;
+    width: 32px;
+    height: 32px;
+}
+.terracotta {
+    background-image: url(./1.16.png);
+    background-position: -608px 0px;
+    width: 32px;
+    height: 32px;
+}
+.sunflower {
+    background-image: url(./1.16.png);
+    background-position: -608px -32px;
+    width: 32px;
+    height: 32px;
+}
+.lilac {
+    background-image: url(./1.16.png);
+    background-position: -608px -64px;
+    width: 32px;
+    height: 32px;
+}
+.tall_grass {
+    background-image: url(./1.16.png);
+    background-position: -608px -96px;
+    width: 32px;
+    height: 32px;
+}
+.large_fern {
+    background-image: url(./1.16.png);
+    background-position: -608px -128px;
+    width: 32px;
+    height: 32px;
+}
+.rose_bush {
+    background-image: url(./1.16.png);
+    background-position: -608px -160px;
+    width: 32px;
+    height: 32px;
+}
+.peony {
+    background-image: url(./1.16.png);
+    background-position: -608px -192px;
+    width: 32px;
+    height: 32px;
+}
+.end_rod {
+    background-image: url(./1.16.png);
+    background-position: -608px -224px;
+    width: 32px;
+    height: 32px;
+}
+.chorus_plant {
+    background-image: url(./1.16.png);
+    background-position: -608px -256px;
+    width: 32px;
+    height: 32px;
+}
+.chorus_flower {
+    background-image: url(./1.16.png);
+    background-position: -608px -288px;
+    width: 32px;
+    height: 32px;
+}
+.purpur_block {
+    background-image: url(./1.16.png);
+    background-position: -608px -320px;
+    width: 32px;
+    height: 32px;
+}
+.purpur_pillar {
+    background-image: url(./1.16.png);
+    background-position: -608px -352px;
+    width: 32px;
+    height: 32px;
+}
+.purpur_stairs {
+    background-image: url(./1.16.png);
+    background-position: -608px -384px;
+    width: 32px;
+    height: 32px;
+}
+.purpur_slab {
+    background-image: url(./1.16.png);
+    background-position: -608px -416px;
+    width: 32px;
+    height: 32px;
+}
+.end_stone_bricks {
+    background-image: url(./1.16.png);
+    background-position: -608px -448px;
+    width: 32px;
+    height: 32px;
+}
+.grass_path {
+    background-image: url(./1.16.png);
+    background-position: -608px -480px;
+    width: 32px;
+    height: 32px;
+}
+.magma_block {
+    background-image: url(./1.16.png);
+    background-position: -608px -512px;
+    width: 32px;
+    height: 32px;
+}
+.nether_wart_block {
+    background-image: url(./1.16.png);
+    background-position: -608px -544px;
+    width: 32px;
+    height: 32px;
+}
+.red_nether_bricks {
+    background-image: url(./1.16.png);
+    background-position: -608px -576px;
+    width: 32px;
+    height: 32px;
+}
+.bone_block {
+    background-image: url(./1.16.png);
+    background-position: 0px -608px;
+    width: 32px;
+    height: 32px;
+}
+.observer {
+    background-image: url(./1.16.png);
+    background-position: -32px -608px;
+    width: 32px;
+    height: 32px;
+}
+.white_glazed_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -64px -608px;
+    width: 32px;
+    height: 32px;
+}
+.orange_glazed_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -96px -608px;
+    width: 32px;
+    height: 32px;
+}
+.magenta_glazed_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -128px -608px;
+    width: 32px;
+    height: 32px;
+}
+.light_blue_glazed_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -160px -608px;
+    width: 32px;
+    height: 32px;
+}
+.yellow_glazed_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -192px -608px;
+    width: 32px;
+    height: 32px;
+}
+.lime_glazed_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -224px -608px;
+    width: 32px;
+    height: 32px;
+}
+.pink_glazed_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -256px -608px;
+    width: 32px;
+    height: 32px;
+}
+.gray_glazed_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -288px -608px;
+    width: 32px;
+    height: 32px;
+}
+.light_gray_glazed_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -320px -608px;
+    width: 32px;
+    height: 32px;
+}
+.cyan_glazed_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -352px -608px;
+    width: 32px;
+    height: 32px;
+}
+.purple_glazed_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -384px -608px;
+    width: 32px;
+    height: 32px;
+}
+.blue_glazed_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -416px -608px;
+    width: 32px;
+    height: 32px;
+}
+.brown_glazed_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -448px -608px;
+    width: 32px;
+    height: 32px;
+}
+.green_glazed_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -480px -608px;
+    width: 32px;
+    height: 32px;
+}
+.red_glazed_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -512px -608px;
+    width: 32px;
+    height: 32px;
+}
+.black_glazed_terracotta {
+    background-image: url(./1.16.png);
+    background-position: -544px -608px;
+    width: 32px;
+    height: 32px;
+}
+.white_concrete {
+    background-image: url(./1.16.png);
+    background-position: -576px -608px;
+    width: 32px;
+    height: 32px;
+}
+.orange_concrete {
+    background-image: url(./1.16.png);
+    background-position: -608px -608px;
+    width: 32px;
+    height: 32px;
+}
+.magenta_concrete {
+    background-image: url(./1.16.png);
+    background-position: -640px 0px;
+    width: 32px;
+    height: 32px;
+}
+.light_blue_concrete {
+    background-image: url(./1.16.png);
+    background-position: -640px -32px;
+    width: 32px;
+    height: 32px;
+}
+.yellow_concrete {
+    background-image: url(./1.16.png);
+    background-position: -640px -64px;
+    width: 32px;
+    height: 32px;
+}
+.lime_concrete {
+    background-image: url(./1.16.png);
+    background-position: -640px -96px;
+    width: 32px;
+    height: 32px;
+}
+.pink_concrete {
+    background-image: url(./1.16.png);
+    background-position: -640px -128px;
+    width: 32px;
+    height: 32px;
+}
+.gray_concrete {
+    background-image: url(./1.16.png);
+    background-position: -640px -160px;
+    width: 32px;
+    height: 32px;
+}
+.light_gray_concrete {
+    background-image: url(./1.16.png);
+    background-position: -640px -192px;
+    width: 32px;
+    height: 32px;
+}
+.cyan_concrete {
+    background-image: url(./1.16.png);
+    background-position: -640px -224px;
+    width: 32px;
+    height: 32px;
+}
+.purple_concrete {
+    background-image: url(./1.16.png);
+    background-position: -640px -256px;
+    width: 32px;
+    height: 32px;
+}
+.blue_concrete {
+    background-image: url(./1.16.png);
+    background-position: -640px -288px;
+    width: 32px;
+    height: 32px;
+}
+.brown_concrete {
+    background-image: url(./1.16.png);
+    background-position: -640px -320px;
+    width: 32px;
+    height: 32px;
+}
+.green_concrete {
+    background-image: url(./1.16.png);
+    background-position: -640px -352px;
+    width: 32px;
+    height: 32px;
+}
+.red_concrete {
+    background-image: url(./1.16.png);
+    background-position: -640px -384px;
+    width: 32px;
+    height: 32px;
+}
+.black_concrete {
+    background-image: url(./1.16.png);
+    background-position: -640px -416px;
+    width: 32px;
+    height: 32px;
+}
+.white_concrete_powder {
+    background-image: url(./1.16.png);
+    background-position: -640px -448px;
+    width: 32px;
+    height: 32px;
+}
+.orange_concrete_powder {
+    background-image: url(./1.16.png);
+    background-position: -640px -480px;
+    width: 32px;
+    height: 32px;
+}
+.magenta_concrete_powder {
+    background-image: url(./1.16.png);
+    background-position: -640px -512px;
+    width: 32px;
+    height: 32px;
+}
+.light_blue_concrete_powder {
+    background-image: url(./1.16.png);
+    background-position: -640px -544px;
+    width: 32px;
+    height: 32px;
+}
+.yellow_concrete_powder {
+    background-image: url(./1.16.png);
+    background-position: -640px -576px;
+    width: 32px;
+    height: 32px;
+}
+.lime_concrete_powder {
+    background-image: url(./1.16.png);
+    background-position: -640px -608px;
+    width: 32px;
+    height: 32px;
+}
+.pink_concrete_powder {
+    background-image: url(./1.16.png);
+    background-position: 0px -640px;
+    width: 32px;
+    height: 32px;
+}
+.gray_concrete_powder {
+    background-image: url(./1.16.png);
+    background-position: -32px -640px;
+    width: 32px;
+    height: 32px;
+}
+.light_gray_concrete_powder {
+    background-image: url(./1.16.png);
+    background-position: -64px -640px;
+    width: 32px;
+    height: 32px;
+}
+.cyan_concrete_powder {
+    background-image: url(./1.16.png);
+    background-position: -96px -640px;
+    width: 32px;
+    height: 32px;
+}
+.purple_concrete_powder {
+    background-image: url(./1.16.png);
+    background-position: -128px -640px;
+    width: 32px;
+    height: 32px;
+}
+.blue_concrete_powder {
+    background-image: url(./1.16.png);
+    background-position: -160px -640px;
+    width: 32px;
+    height: 32px;
+}
+.brown_concrete_powder {
+    background-image: url(./1.16.png);
+    background-position: -192px -640px;
+    width: 32px;
+    height: 32px;
+}
+.green_concrete_powder {
+    background-image: url(./1.16.png);
+    background-position: -224px -640px;
+    width: 32px;
+    height: 32px;
+}
+.red_concrete_powder {
+    background-image: url(./1.16.png);
+    background-position: -256px -640px;
+    width: 32px;
+    height: 32px;
+}
+.black_concrete_powder {
+    background-image: url(./1.16.png);
+    background-position: -288px -640px;
+    width: 32px;
+    height: 32px;
+}
+.flint_and_steel {
+    background-image: url(./1.16.png);
+    background-position: -320px -640px;
+    width: 32px;
+    height: 32px;
+}
+.apple {
+    background-image: url(./1.16.png);
+    background-position: -352px -640px;
+    width: 32px;
+    height: 32px;
+}
+.bow {
+    background-image: url(./1.16.png);
+    background-position: -384px -640px;
+    width: 32px;
+    height: 32px;
+}
+.arrow {
+    background-image: url(./1.16.png);
+    background-position: -416px -640px;
+    width: 32px;
+    height: 32px;
+}
+.coal {
+    background-image: url(./1.16.png);
+    background-position: -448px -640px;
+    width: 32px;
+    height: 32px;
+}
+.charcoal {
+    background-image: url(./1.16.png);
+    background-position: -480px -640px;
+    width: 32px;
+    height: 32px;
+}
+.iron_ingot {
+    background-image: url(./1.16.png);
+    background-position: -512px -640px;
+    width: 32px;
+    height: 32px;
+}
+.gold_ingot {
+    background-image: url(./1.16.png);
+    background-position: -544px -640px;
+    width: 32px;
+    height: 32px;
+}
+.diamond {
+    background-image: url(./1.16.png);
+    background-position: -576px -640px;
+    width: 32px;
+    height: 32px;
+}
+.emerald {
+    background-image: url(./1.16.png);
+    background-position: -608px -640px;
+    width: 32px;
+    height: 32px;
+}
+.wooden_sword {
+    background-image: url(./1.16.png);
+    background-position: -640px -640px;
+    width: 32px;
+    height: 32px;
+}
+.wooden_shovel {
+    background-image: url(./1.16.png);
+    background-position: -672px 0px;
+    width: 32px;
+    height: 32px;
+}
+.wooden_pickaxe {
+    background-image: url(./1.16.png);
+    background-position: -672px -32px;
+    width: 32px;
+    height: 32px;
+}
+.wooden_axe {
+    background-image: url(./1.16.png);
+    background-position: -672px -64px;
+    width: 32px;
+    height: 32px;
+}
+.wooden_hoe {
+    background-image: url(./1.16.png);
+    background-position: -672px -96px;
+    width: 32px;
+    height: 32px;
+}
+.stone_sword {
+    background-image: url(./1.16.png);
+    background-position: -672px -128px;
+    width: 32px;
+    height: 32px;
+}
+.stone_shovel {
+    background-image: url(./1.16.png);
+    background-position: -672px -160px;
+    width: 32px;
+    height: 32px;
+}
+.stone_pickaxe {
+    background-image: url(./1.16.png);
+    background-position: -672px -192px;
+    width: 32px;
+    height: 32px;
+}
+.stone_axe {
+    background-image: url(./1.16.png);
+    background-position: -672px -224px;
+    width: 32px;
+    height: 32px;
+}
+.stone_hoe {
+    background-image: url(./1.16.png);
+    background-position: -672px -256px;
+    width: 32px;
+    height: 32px;
+}
+.iron_sword {
+    background-image: url(./1.16.png);
+    background-position: -672px -288px;
+    width: 32px;
+    height: 32px;
+}
+.iron_shovel {
+    background-image: url(./1.16.png);
+    background-position: -672px -320px;
+    width: 32px;
+    height: 32px;
+}
+.iron_pickaxe {
+    background-image: url(./1.16.png);
+    background-position: -672px -352px;
+    width: 32px;
+    height: 32px;
+}
+.iron_axe {
+    background-image: url(./1.16.png);
+    background-position: -672px -384px;
+    width: 32px;
+    height: 32px;
+}
+.iron_hoe {
+    background-image: url(./1.16.png);
+    background-position: -672px -416px;
+    width: 32px;
+    height: 32px;
+}
+.golden_sword {
+    background-image: url(./1.16.png);
+    background-position: -672px -448px;
+    width: 32px;
+    height: 32px;
+}
+.golden_shovel {
+    background-image: url(./1.16.png);
+    background-position: -672px -480px;
+    width: 32px;
+    height: 32px;
+}
+.golden_pickaxe {
+    background-image: url(./1.16.png);
+    background-position: -672px -512px;
+    width: 32px;
+    height: 32px;
+}
+.golden_axe {
+    background-image: url(./1.16.png);
+    background-position: -672px -544px;
+    width: 32px;
+    height: 32px;
+}
+.golden_hoe {
+    background-image: url(./1.16.png);
+    background-position: -672px -576px;
+    width: 32px;
+    height: 32px;
+}
+.diamond_sword {
+    background-image: url(./1.16.png);
+    background-position: -672px -608px;
+    width: 32px;
+    height: 32px;
+}
+.diamond_shovel {
+    background-image: url(./1.16.png);
+    background-position: -672px -640px;
+    width: 32px;
+    height: 32px;
+}
+.diamond_pickaxe {
+    background-image: url(./1.16.png);
+    background-position: 0px -672px;
+    width: 32px;
+    height: 32px;
+}
+.diamond_axe {
+    background-image: url(./1.16.png);
+    background-position: -32px -672px;
+    width: 32px;
+    height: 32px;
+}
+.diamond_hoe {
+    background-image: url(./1.16.png);
+    background-position: -64px -672px;
+    width: 32px;
+    height: 32px;
+}
+.leather_helmet {
+    background-image: url(./1.16.png);
+    background-position: -96px -672px;
+    width: 32px;
+    height: 32px;
+}
+.leather_chestplate {
+    background-image: url(./1.16.png);
+    background-position: -128px -672px;
+    width: 32px;
+    height: 32px;
+}
+.leather_leggings {
+    background-image: url(./1.16.png);
+    background-position: -160px -672px;
+    width: 32px;
+    height: 32px;
+}
+.leather_boots {
+    background-image: url(./1.16.png);
+    background-position: -192px -672px;
+    width: 32px;
+    height: 32px;
+}
+.chainmail_helmet {
+    background-image: url(./1.16.png);
+    background-position: -224px -672px;
+    width: 32px;
+    height: 32px;
+}
+.chainmail_chestplate {
+    background-image: url(./1.16.png);
+    background-position: -256px -672px;
+    width: 32px;
+    height: 32px;
+}
+.chainmail_leggings {
+    background-image: url(./1.16.png);
+    background-position: -288px -672px;
+    width: 32px;
+    height: 32px;
+}
+.chainmail_boots {
+    background-image: url(./1.16.png);
+    background-position: -320px -672px;
+    width: 32px;
+    height: 32px;
+}
+.iron_helmet {
+    background-image: url(./1.16.png);
+    background-position: -352px -672px;
+    width: 32px;
+    height: 32px;
+}
+.iron_chestplate {
+    background-image: url(./1.16.png);
+    background-position: -384px -672px;
+    width: 32px;
+    height: 32px;
+}
+.iron_leggings {
+    background-image: url(./1.16.png);
+    background-position: -416px -672px;
+    width: 32px;
+    height: 32px;
+}
+.iron_boots {
+    background-image: url(./1.16.png);
+    background-position: -448px -672px;
+    width: 32px;
+    height: 32px;
+}
+.golden_helmet {
+    background-image: url(./1.16.png);
+    background-position: -480px -672px;
+    width: 32px;
+    height: 32px;
+}
+.golden_chestplate {
+    background-image: url(./1.16.png);
+    background-position: -512px -672px;
+    width: 32px;
+    height: 32px;
+}
+.golden_leggings {
+    background-image: url(./1.16.png);
+    background-position: -544px -672px;
+    width: 32px;
+    height: 32px;
+}
+.golden_boots {
+    background-image: url(./1.16.png);
+    background-position: -576px -672px;
+    width: 32px;
+    height: 32px;
+}
+.diamond_helmet {
+    background-image: url(./1.16.png);
+    background-position: -608px -672px;
+    width: 32px;
+    height: 32px;
+}
+.diamond_chestplate {
+    background-image: url(./1.16.png);
+    background-position: -640px -672px;
+    width: 32px;
+    height: 32px;
+}
+.diamond_leggings {
+    background-image: url(./1.16.png);
+    background-position: -672px -672px;
+    width: 32px;
+    height: 32px;
+}
+.diamond_boots {
+    background-image: url(./1.16.png);
+    background-position: -704px 0px;
+    width: 32px;
+    height: 32px;
+}
+.stick {
+    background-image: url(./1.16.png);
+    background-position: -704px -32px;
+    width: 32px;
+    height: 32px;
+}
+.bowl {
+    background-image: url(./1.16.png);
+    background-position: -704px -64px;
+    width: 32px;
+    height: 32px;
+}
+.mushroom_stew {
+    background-image: url(./1.16.png);
+    background-position: -704px -96px;
+    width: 32px;
+    height: 32px;
+}
+.string {
+    background-image: url(./1.16.png);
+    background-position: -704px -128px;
+    width: 32px;
+    height: 32px;
+}
+.feather {
+    background-image: url(./1.16.png);
+    background-position: -704px -160px;
+    width: 32px;
+    height: 32px;
+}
+.gunpowder {
+    background-image: url(./1.16.png);
+    background-position: -704px -192px;
+    width: 32px;
+    height: 32px;
+}
+.wheat_seeds {
+    background-image: url(./1.16.png);
+    background-position: -704px -224px;
+    width: 32px;
+    height: 32px;
+}
+.bread {
+    background-image: url(./1.16.png);
+    background-position: -704px -256px;
+    width: 32px;
+    height: 32px;
+}
+.flint {
+    background-image: url(./1.16.png);
+    background-position: -704px -288px;
+    width: 32px;
+    height: 32px;
+}
+.porkchop {
+    background-image: url(./1.16.png);
+    background-position: -704px -320px;
+    width: 32px;
+    height: 32px;
+}
+.cooked_porkchop {
+    background-image: url(./1.16.png);
+    background-position: -704px -352px;
+    width: 32px;
+    height: 32px;
+}
+.painting {
+    background-image: url(./1.16.png);
+    background-position: -704px -384px;
+    width: 32px;
+    height: 32px;
+}
+.golden_apple {
+    background-image: url(./1.16.png);
+    background-position: -704px -416px;
+    width: 32px;
+    height: 32px;
+}
+.enchanted_golden_apple {
+    background-image: url(./1.16.png);
+    background-position: -704px -448px;
+    width: 32px;
+    height: 32px;
+}
+.oak_sign {
+    background-image: url(./1.16.png);
+    background-position: -704px -480px;
+    width: 32px;
+    height: 32px;
+}
+.bucket {
+    background-image: url(./1.16.png);
+    background-position: -704px -512px;
+    width: 32px;
+    height: 32px;
+}
+.cod_bucket {
+    background-image: url(./1.16.png);
+    background-position: -704px -544px;
+    width: 32px;
+    height: 32px;
+}
+.salmon_bucket {
+    background-image: url(./1.16.png);
+    background-position: -704px -576px;
+    width: 32px;
+    height: 32px;
+}
+.pufferfish_bucket {
+    background-image: url(./1.16.png);
+    background-position: -704px -608px;
+    width: 32px;
+    height: 32px;
+}
+.tropical_fish_bucket {
+    background-image: url(./1.16.png);
+    background-position: -704px -640px;
+    width: 32px;
+    height: 32px;
+}
+.water_bucket {
+    background-image: url(./1.16.png);
+    background-position: -704px -672px;
+    width: 32px;
+    height: 32px;
+}
+.lava_bucket {
+    background-image: url(./1.16.png);
+    background-position: 0px -704px;
+    width: 32px;
+    height: 32px;
+}
+.minecart {
+    background-image: url(./1.16.png);
+    background-position: -32px -704px;
+    width: 32px;
+    height: 32px;
+}
+.chest_minecart {
+    background-image: url(./1.16.png);
+    background-position: -64px -704px;
+    width: 32px;
+    height: 32px;
+}
+.furnace_minecart {
+    background-image: url(./1.16.png);
+    background-position: -96px -704px;
+    width: 32px;
+    height: 32px;
+}
+.tnt_minecart {
+    background-image: url(./1.16.png);
+    background-position: -128px -704px;
+    width: 32px;
+    height: 32px;
+}
+.hopper_minecart {
+    background-image: url(./1.16.png);
+    background-position: -160px -704px;
+    width: 32px;
+    height: 32px;
+}
+.command_block_minecart {
+    background-image: url(./1.16.png);
+    background-position: -192px -704px;
+    width: 32px;
+    height: 32px;
+}
+.redstone {
+    background-image: url(./1.16.png);
+    background-position: -224px -704px;
+    width: 32px;
+    height: 32px;
+}
+.redstone_torch {
+    background-image: url(./1.16.png);
+    background-position: -256px -704px;
+    width: 32px;
+    height: 32px;
+}
+.redstone_lamp {
+    background-image: url(./1.16.png);
+    background-position: -288px -704px;
+    width: 32px;
+    height: 32px;
+}
+.repeater {
+    background-image: url(./1.16.png);
+    background-position: -320px -704px;
+    width: 32px;
+    height: 32px;
+}
+.comparator {
+    background-image: url(./1.16.png);
+    background-position: -352px -704px;
+    width: 32px;
+    height: 32px;
+}
+.daylight_detector {
+    background-image: url(./1.16.png);
+    background-position: -384px -704px;
+    width: 32px;
+    height: 32px;
+}
+.saddle {
+    background-image: url(./1.16.png);
+    background-position: -416px -704px;
+    width: 32px;
+    height: 32px;
+}
+.snowball {
+    background-image: url(./1.16.png);
+    background-position: -448px -704px;
+    width: 32px;
+    height: 32px;
+}
+.oak_boat {
+    background-image: url(./1.16.png);
+    background-position: -480px -704px;
+    width: 32px;
+    height: 32px;
+}
+.spruce_boat {
+    background-image: url(./1.16.png);
+    background-position: -512px -704px;
+    width: 32px;
+    height: 32px;
+}
+.birch_boat {
+    background-image: url(./1.16.png);
+    background-position: -544px -704px;
+    width: 32px;
+    height: 32px;
+}
+.jungle_boat {
+    background-image: url(./1.16.png);
+    background-position: -576px -704px;
+    width: 32px;
+    height: 32px;
+}
+.acacia_boat {
+    background-image: url(./1.16.png);
+    background-position: -608px -704px;
+    width: 32px;
+    height: 32px;
+}
+.dark_oak_boat {
+    background-image: url(./1.16.png);
+    background-position: -640px -704px;
+    width: 32px;
+    height: 32px;
+}
+.leather {
+    background-image: url(./1.16.png);
+    background-position: -672px -704px;
+    width: 32px;
+    height: 32px;
+}
+.milk_bucket {
+    background-image: url(./1.16.png);
+    background-position: -704px -704px;
+    width: 32px;
+    height: 32px;
+}
+.brick {
+    background-image: url(./1.16.png);
+    background-position: -736px 0px;
+    width: 32px;
+    height: 32px;
+}
+.clay_ball {
+    background-image: url(./1.16.png);
+    background-position: -736px -32px;
+    width: 32px;
+    height: 32px;
+}
+.paper {
+    background-image: url(./1.16.png);
+    background-position: -736px -64px;
+    width: 32px;
+    height: 32px;
+}
+.book {
+    background-image: url(./1.16.png);
+    background-position: -736px -96px;
+    width: 32px;
+    height: 32px;
+}
+.knowledge_book {
+    background-image: url(./1.16.png);
+    background-position: -736px -128px;
+    width: 32px;
+    height: 32px;
+}
+.writable_book {
+    background-image: url(./1.16.png);
+    background-position: -736px -160px;
+    width: 32px;
+    height: 32px;
+}
+.written_book {
+    background-image: url(./1.16.png);
+    background-position: -736px -192px;
+    width: 32px;
+    height: 32px;
+}
+.enchanted_book {
+    background-image: url(./1.16.png);
+    background-position: -736px -224px;
+    width: 32px;
+    height: 32px;
+}
+.slime_ball {
+    background-image: url(./1.16.png);
+    background-position: -736px -256px;
+    width: 32px;
+    height: 32px;
+}
+.egg {
+    background-image: url(./1.16.png);
+    background-position: -736px -288px;
+    width: 32px;
+    height: 32px;
+}
+.compass {
+    background-image: url(./1.16.png);
+    background-position: -736px -320px;
+    width: 32px;
+    height: 32px;
+}
+.fishing_rod {
+    background-image: url(./1.16.png);
+    background-position: -736px -352px;
+    width: 32px;
+    height: 32px;
+}
+.clock {
+    background-image: url(./1.16.png);
+    background-position: -736px -384px;
+    width: 32px;
+    height: 32px;
+}
+.glowstone_dust {
+    background-image: url(./1.16.png);
+    background-position: -736px -416px;
+    width: 32px;
+    height: 32px;
+}
+.cod {
+    background-image: url(./1.16.png);
+    background-position: -736px -448px;
+    width: 32px;
+    height: 32px;
+}
+.salmon {
+    background-image: url(./1.16.png);
+    background-position: -736px -480px;
+    width: 32px;
+    height: 32px;
+}
+.tropical_fish {
+    background-image: url(./1.16.png);
+    background-position: -736px -512px;
+    width: 32px;
+    height: 32px;
+}
+.pufferfish {
+    background-image: url(./1.16.png);
+    background-position: -736px -544px;
+    width: 32px;
+    height: 32px;
+}
+.cooked_cod {
+    background-image: url(./1.16.png);
+    background-position: -736px -576px;
+    width: 32px;
+    height: 32px;
+}
+.cooked_salmon {
+    background-image: url(./1.16.png);
+    background-position: -736px -608px;
+    width: 32px;
+    height: 32px;
+}
+.ink_sac {
+    background-image: url(./1.16.png);
+    background-position: -736px -640px;
+    width: 32px;
+    height: 32px;
+}
+.red_dye {
+    background-image: url(./1.16.png);
+    background-position: -736px -672px;
+    width: 32px;
+    height: 32px;
+}
+.green_dye {
+    background-image: url(./1.16.png);
+    background-position: -736px -704px;
+    width: 32px;
+    height: 32px;
+}
+.cocoa_beans {
+    background-image: url(./1.16.png);
+    background-position: 0px -736px;
+    width: 32px;
+    height: 32px;
+}
+.lapis_lazuli {
+    background-image: url(./1.16.png);
+    background-position: -32px -736px;
+    width: 32px;
+    height: 32px;
+}
+.purple_dye {
+    background-image: url(./1.16.png);
+    background-position: -64px -736px;
+    width: 32px;
+    height: 32px;
+}
+.cyan_dye {
+    background-image: url(./1.16.png);
+    background-position: -96px -736px;
+    width: 32px;
+    height: 32px;
+}
+.light_gray_dye {
+    background-image: url(./1.16.png);
+    background-position: -128px -736px;
+    width: 32px;
+    height: 32px;
+}
+.gray_dye {
+    background-image: url(./1.16.png);
+    background-position: -160px -736px;
+    width: 32px;
+    height: 32px;
+}
+.pink_dye {
+    background-image: url(./1.16.png);
+    background-position: -192px -736px;
+    width: 32px;
+    height: 32px;
+}
+.lime_dye {
+    background-image: url(./1.16.png);
+    background-position: -224px -736px;
+    width: 32px;
+    height: 32px;
+}
+.yellow_dye {
+    background-image: url(./1.16.png);
+    background-position: -256px -736px;
+    width: 32px;
+    height: 32px;
+}
+.light_blue_dye {
+    background-image: url(./1.16.png);
+    background-position: -288px -736px;
+    width: 32px;
+    height: 32px;
+}
+.magenta_dye {
+    background-image: url(./1.16.png);
+    background-position: -320px -736px;
+    width: 32px;
+    height: 32px;
+}
+.orange_dye {
+    background-image: url(./1.16.png);
+    background-position: -352px -736px;
+    width: 32px;
+    height: 32px;
+}
+.bone_meal {
+    background-image: url(./1.16.png);
+    background-position: -384px -736px;
+    width: 32px;
+    height: 32px;
+}
+.bone {
+    background-image: url(./1.16.png);
+    background-position: -416px -736px;
+    width: 32px;
+    height: 32px;
+}
+.sugar {
+    background-image: url(./1.16.png);
+    background-position: -448px -736px;
+    width: 32px;
+    height: 32px;
+}
+.cake {
+    background-image: url(./1.16.png);
+    background-position: -480px -736px;
+    width: 32px;
+    height: 32px;
+}
+.white_bed {
+    background-image: url(./1.16.png);
+    background-position: -512px -736px;
+    width: 32px;
+    height: 32px;
+}
+.orange_bed {
+    background-image: url(./1.16.png);
+    background-position: -544px -736px;
+    width: 32px;
+    height: 32px;
+}
+.magenta_bed {
+    background-image: url(./1.16.png);
+    background-position: -576px -736px;
+    width: 32px;
+    height: 32px;
+}
+.light_blue_bed {
+    background-image: url(./1.16.png);
+    background-position: -608px -736px;
+    width: 32px;
+    height: 32px;
+}
+.yellow_bed {
+    background-image: url(./1.16.png);
+    background-position: -640px -736px;
+    width: 32px;
+    height: 32px;
+}
+.lime_bed {
+    background-image: url(./1.16.png);
+    background-position: -672px -736px;
+    width: 32px;
+    height: 32px;
+}
+.pink_bed {
+    background-image: url(./1.16.png);
+    background-position: -704px -736px;
+    width: 32px;
+    height: 32px;
+}
+.gray_bed {
+    background-image: url(./1.16.png);
+    background-position: -736px -736px;
+    width: 32px;
+    height: 32px;
+}
+.light_gray_bed {
+    background-image: url(./1.16.png);
+    background-position: -768px 0px;
+    width: 32px;
+    height: 32px;
+}
+.cyan_bed {
+    background-image: url(./1.16.png);
+    background-position: -768px -32px;
+    width: 32px;
+    height: 32px;
+}
+.purple_bed {
+    background-image: url(./1.16.png);
+    background-position: -768px -64px;
+    width: 32px;
+    height: 32px;
+}
+.blue_bed {
+    background-image: url(./1.16.png);
+    background-position: -768px -96px;
+    width: 32px;
+    height: 32px;
+}
+.brown_bed {
+    background-image: url(./1.16.png);
+    background-position: -768px -128px;
+    width: 32px;
+    height: 32px;
+}
+.green_bed {
+    background-image: url(./1.16.png);
+    background-position: -768px -160px;
+    width: 32px;
+    height: 32px;
+}
+.red_bed {
+    background-image: url(./1.16.png);
+    background-position: -768px -192px;
+    width: 32px;
+    height: 32px;
+}
+.black_bed {
+    background-image: url(./1.16.png);
+    background-position: -768px -224px;
+    width: 32px;
+    height: 32px;
+}
+.cookie {
+    background-image: url(./1.16.png);
+    background-position: -768px -256px;
+    width: 32px;
+    height: 32px;
+}
+.filled_map {
+    background-image: url(./1.16.png);
+    background-position: -768px -288px;
+    width: 32px;
+    height: 32px;
+}
+.shears {
+    background-image: url(./1.16.png);
+    background-position: -768px -320px;
+    width: 32px;
+    height: 32px;
+}
+.melon_slice {
+    background-image: url(./1.16.png);
+    background-position: -768px -352px;
+    width: 32px;
+    height: 32px;
+}
+.pumpkin_seeds {
+    background-image: url(./1.16.png);
+    background-position: -768px -384px;
+    width: 32px;
+    height: 32px;
+}
+.melon_seeds {
+    background-image: url(./1.16.png);
+    background-position: -768px -416px;
+    width: 32px;
+    height: 32px;
+}
+.beef {
+    background-image: url(./1.16.png);
+    background-position: -768px -448px;
+    width: 32px;
+    height: 32px;
+}
+.cooked_beef {
+    background-image: url(./1.16.png);
+    background-position: -768px -480px;
+    width: 32px;
+    height: 32px;
+}
+.chicken {
+    background-image: url(./1.16.png);
+    background-position: -768px -512px;
+    width: 32px;
+    height: 32px;
+}
+.cooked_chicken {
+    background-image: url(./1.16.png);
+    background-position: -768px -544px;
+    width: 32px;
+    height: 32px;
+}
+.rotten_flesh {
+    background-image: url(./1.16.png);
+    background-position: -768px -576px;
+    width: 32px;
+    height: 32px;
+}
+.ender_pearl {
+    background-image: url(./1.16.png);
+    background-position: -768px -608px;
+    width: 32px;
+    height: 32px;
+}
+.blaze_rod {
+    background-image: url(./1.16.png);
+    background-position: -768px -640px;
+    width: 32px;
+    height: 32px;
+}
+.ghast_tear {
+    background-image: url(./1.16.png);
+    background-position: -768px -672px;
+    width: 32px;
+    height: 32px;
+}
+.gold_nugget {
+    background-image: url(./1.16.png);
+    background-position: -768px -704px;
+    width: 32px;
+    height: 32px;
+}
+.potion {
+    background-image: url(./1.16.png);
+    background-position: -768px -736px;
+    width: 32px;
+    height: 32px;
+}
+.glass_bottle {
+    background-image: url(./1.16.png);
+    background-position: 0px -768px;
+    width: 32px;
+    height: 32px;
+}
+.spider_eye {
+    background-image: url(./1.16.png);
+    background-position: -32px -768px;
+    width: 32px;
+    height: 32px;
+}
+.fermented_spider_eye {
+    background-image: url(./1.16.png);
+    background-position: -64px -768px;
+    width: 32px;
+    height: 32px;
+}
+.blaze_powder {
+    background-image: url(./1.16.png);
+    background-position: -96px -768px;
+    width: 32px;
+    height: 32px;
+}
+.magma_cream {
+    background-image: url(./1.16.png);
+    background-position: -128px -768px;
+    width: 32px;
+    height: 32px;
+}
+.ender_eye {
+    background-image: url(./1.16.png);
+    background-position: -160px -768px;
+    width: 32px;
+    height: 32px;
+}
+.glistering_melon_slice {
+    background-image: url(./1.16.png);
+    background-position: -192px -768px;
+    width: 32px;
+    height: 32px;
+}
+.elder_guardian_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -224px -768px;
+    width: 32px;
+    height: 32px;
+}
+.wither_skeleton_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -256px -768px;
+    width: 32px;
+    height: 32px;
+}
+.stray_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -288px -768px;
+    width: 32px;
+    height: 32px;
+}
+.husk_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -320px -768px;
+    width: 32px;
+    height: 32px;
+}
+.zombie_villager_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -352px -768px;
+    width: 32px;
+    height: 32px;
+}
+.skeleton_horse_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -384px -768px;
+    width: 32px;
+    height: 32px;
+}
+.zombie_horse_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -416px -768px;
+    width: 32px;
+    height: 32px;
+}
+.donkey_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -448px -768px;
+    width: 32px;
+    height: 32px;
+}
+.mule_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -480px -768px;
+    width: 32px;
+    height: 32px;
+}
+.evoker_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -512px -768px;
+    width: 32px;
+    height: 32px;
+}
+.vex_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -544px -768px;
+    width: 32px;
+    height: 32px;
+}
+.vindicator_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -576px -768px;
+    width: 32px;
+    height: 32px;
+}
+.creeper_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -608px -768px;
+    width: 32px;
+    height: 32px;
+}
+.skeleton_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -640px -768px;
+    width: 32px;
+    height: 32px;
+}
+.spider_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -672px -768px;
+    width: 32px;
+    height: 32px;
+}
+.zombie_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -704px -768px;
+    width: 32px;
+    height: 32px;
+}
+.slime_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -736px -768px;
+    width: 32px;
+    height: 32px;
+}
+.ghast_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -768px -768px;
+    width: 32px;
+    height: 32px;
+}
+.zombified_piglin_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -800px 0px;
+    width: 32px;
+    height: 32px;
+}
+.enderman_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -800px -32px;
+    width: 32px;
+    height: 32px;
+}
+.cave_spider_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -800px -64px;
+    width: 32px;
+    height: 32px;
+}
+.silverfish_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -800px -96px;
+    width: 32px;
+    height: 32px;
+}
+.blaze_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -800px -128px;
+    width: 32px;
+    height: 32px;
+}
+.magma_cube_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -800px -160px;
+    width: 32px;
+    height: 32px;
+}
+.bat_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -800px -192px;
+    width: 32px;
+    height: 32px;
+}
+.witch_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -800px -224px;
+    width: 32px;
+    height: 32px;
+}
+.endermite_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -800px -256px;
+    width: 32px;
+    height: 32px;
+}
+.guardian_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -800px -288px;
+    width: 32px;
+    height: 32px;
+}
+.shulker_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -800px -320px;
+    width: 32px;
+    height: 32px;
+}
+.pig_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -800px -352px;
+    width: 32px;
+    height: 32px;
+}
+.sheep_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -800px -384px;
+    width: 32px;
+    height: 32px;
+}
+.cow_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -800px -416px;
+    width: 32px;
+    height: 32px;
+}
+.chicken_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -800px -448px;
+    width: 32px;
+    height: 32px;
+}
+.squid_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -800px -480px;
+    width: 32px;
+    height: 32px;
+}
+.wolf_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -800px -512px;
+    width: 32px;
+    height: 32px;
+}
+.mooshroom_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -800px -544px;
+    width: 32px;
+    height: 32px;
+}
+.ocelot_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -800px -576px;
+    width: 32px;
+    height: 32px;
+}
+.parrot_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -800px -608px;
+    width: 32px;
+    height: 32px;
+}
+.horse_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -800px -640px;
+    width: 32px;
+    height: 32px;
+}
+.rabbit_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -800px -672px;
+    width: 32px;
+    height: 32px;
+}
+.polar_bear_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -800px -704px;
+    width: 32px;
+    height: 32px;
+}
+.llama_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -800px -736px;
+    width: 32px;
+    height: 32px;
+}
+.villager_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -800px -768px;
+    width: 32px;
+    height: 32px;
+}
+.turtle_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: 0px -800px;
+    width: 32px;
+    height: 32px;
+}
+.cod_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -32px -800px;
+    width: 32px;
+    height: 32px;
+}
+.salmon_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -64px -800px;
+    width: 32px;
+    height: 32px;
+}
+.pufferfish_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -96px -800px;
+    width: 32px;
+    height: 32px;
+}
+.phantom_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -128px -800px;
+    width: 32px;
+    height: 32px;
+}
+.tropical_fish_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -160px -800px;
+    width: 32px;
+    height: 32px;
+}
+.drowned_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -192px -800px;
+    width: 32px;
+    height: 32px;
+}
+.dolphin_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -224px -800px;
+    width: 32px;
+    height: 32px;
+}
+.experience_bottle {
+    background-image: url(./1.16.png);
+    background-position: -256px -800px;
+    width: 32px;
+    height: 32px;
+}
+.fire_charge {
+    background-image: url(./1.16.png);
+    background-position: -288px -800px;
+    width: 32px;
+    height: 32px;
+}
+.item_frame {
+    background-image: url(./1.16.png);
+    background-position: -320px -800px;
+    width: 32px;
+    height: 32px;
+}
+.carrot {
+    background-image: url(./1.16.png);
+    background-position: -352px -800px;
+    width: 32px;
+    height: 32px;
+}
+.potato {
+    background-image: url(./1.16.png);
+    background-position: -384px -800px;
+    width: 32px;
+    height: 32px;
+}
+.baked_potato {
+    background-image: url(./1.16.png);
+    background-position: -416px -800px;
+    width: 32px;
+    height: 32px;
+}
+.poisonous_potato {
+    background-image: url(./1.16.png);
+    background-position: -448px -800px;
+    width: 32px;
+    height: 32px;
+}
+.map {
+    background-image: url(./1.16.png);
+    background-position: -480px -800px;
+    width: 32px;
+    height: 32px;
+}
+.golden_carrot {
+    background-image: url(./1.16.png);
+    background-position: -512px -800px;
+    width: 32px;
+    height: 32px;
+}
+.skeleton_skull {
+    background-image: url(./1.16.png);
+    background-position: -544px -800px;
+    width: 32px;
+    height: 32px;
+}
+.wither_skeleton_skull {
+    background-image: url(./1.16.png);
+    background-position: -576px -800px;
+    width: 32px;
+    height: 32px;
+}
+.zombie_head {
+    background-image: url(./1.16.png);
+    background-position: -608px -800px;
+    width: 32px;
+    height: 32px;
+}
+.player_head {
+    background-image: url(./1.16.png);
+    background-position: -640px -800px;
+    width: 32px;
+    height: 32px;
+}
+.creeper_head {
+    background-image: url(./1.16.png);
+    background-position: -672px -800px;
+    width: 32px;
+    height: 32px;
+}
+.dragon_head {
+    background-image: url(./1.16.png);
+    background-position: -704px -800px;
+    width: 32px;
+    height: 32px;
+}
+.carrot_on_a_stick {
+    background-image: url(./1.16.png);
+    background-position: -736px -800px;
+    width: 32px;
+    height: 32px;
+}
+.nether_star {
+    background-image: url(./1.16.png);
+    background-position: -768px -800px;
+    width: 32px;
+    height: 32px;
+}
+.pumpkin_pie {
+    background-image: url(./1.16.png);
+    background-position: -800px -800px;
+    width: 32px;
+    height: 32px;
+}
+.firework_rocket {
+    background-image: url(./1.16.png);
+    background-position: -832px 0px;
+    width: 32px;
+    height: 32px;
+}
+.firework_star {
+    background-image: url(./1.16.png);
+    background-position: -832px -32px;
+    width: 32px;
+    height: 32px;
+}
+.nether_brick {
+    background-image: url(./1.16.png);
+    background-position: -832px -64px;
+    width: 32px;
+    height: 32px;
+}
+.quartz {
+    background-image: url(./1.16.png);
+    background-position: -832px -96px;
+    width: 32px;
+    height: 32px;
+}
+.prismarine_shard {
+    background-image: url(./1.16.png);
+    background-position: -832px -128px;
+    width: 32px;
+    height: 32px;
+}
+.prismarine_crystals {
+    background-image: url(./1.16.png);
+    background-position: -832px -160px;
+    width: 32px;
+    height: 32px;
+}
+.rabbit {
+    background-image: url(./1.16.png);
+    background-position: -832px -192px;
+    width: 32px;
+    height: 32px;
+}
+.cooked_rabbit {
+    background-image: url(./1.16.png);
+    background-position: -832px -224px;
+    width: 32px;
+    height: 32px;
+}
+.rabbit_stew {
+    background-image: url(./1.16.png);
+    background-position: -832px -256px;
+    width: 32px;
+    height: 32px;
+}
+.rabbit_foot {
+    background-image: url(./1.16.png);
+    background-position: -832px -288px;
+    width: 32px;
+    height: 32px;
+}
+.rabbit_hide {
+    background-image: url(./1.16.png);
+    background-position: -832px -320px;
+    width: 32px;
+    height: 32px;
+}
+.armor_stand {
+    background-image: url(./1.16.png);
+    background-position: -832px -352px;
+    width: 32px;
+    height: 32px;
+}
+.iron_horse_armor {
+    background-image: url(./1.16.png);
+    background-position: -832px -384px;
+    width: 32px;
+    height: 32px;
+}
+.golden_horse_armor {
+    background-image: url(./1.16.png);
+    background-position: -832px -416px;
+    width: 32px;
+    height: 32px;
+}
+.diamond_horse_armor {
+    background-image: url(./1.16.png);
+    background-position: -832px -448px;
+    width: 32px;
+    height: 32px;
+}
+.lead {
+    background-image: url(./1.16.png);
+    background-position: -832px -480px;
+    width: 32px;
+    height: 32px;
+}
+.name_tag {
+    background-image: url(./1.16.png);
+    background-position: -832px -512px;
+    width: 32px;
+    height: 32px;
+}
+.mutton {
+    background-image: url(./1.16.png);
+    background-position: -832px -544px;
+    width: 32px;
+    height: 32px;
+}
+.cooked_mutton {
+    background-image: url(./1.16.png);
+    background-position: -832px -576px;
+    width: 32px;
+    height: 32px;
+}
+.white_banner {
+    background-image: url(./1.16.png);
+    background-position: -832px -608px;
+    width: 32px;
+    height: 32px;
+}
+.orange_banner {
+    background-image: url(./1.16.png);
+    background-position: -832px -640px;
+    width: 32px;
+    height: 32px;
+}
+.magenta_banner {
+    background-image: url(./1.16.png);
+    background-position: -832px -672px;
+    width: 32px;
+    height: 32px;
+}
+.light_blue_banner {
+    background-image: url(./1.16.png);
+    background-position: -832px -704px;
+    width: 32px;
+    height: 32px;
+}
+.yellow_banner {
+    background-image: url(./1.16.png);
+    background-position: -832px -736px;
+    width: 32px;
+    height: 32px;
+}
+.lime_banner {
+    background-image: url(./1.16.png);
+    background-position: -832px -768px;
+    width: 32px;
+    height: 32px;
+}
+.pink_banner {
+    background-image: url(./1.16.png);
+    background-position: -832px -800px;
+    width: 32px;
+    height: 32px;
+}
+.gray_banner {
+    background-image: url(./1.16.png);
+    background-position: 0px -832px;
+    width: 32px;
+    height: 32px;
+}
+.light_gray_banner {
+    background-image: url(./1.16.png);
+    background-position: -32px -832px;
+    width: 32px;
+    height: 32px;
+}
+.cyan_banner {
+    background-image: url(./1.16.png);
+    background-position: -64px -832px;
+    width: 32px;
+    height: 32px;
+}
+.purple_banner {
+    background-image: url(./1.16.png);
+    background-position: -96px -832px;
+    width: 32px;
+    height: 32px;
+}
+.blue_banner {
+    background-image: url(./1.16.png);
+    background-position: -128px -832px;
+    width: 32px;
+    height: 32px;
+}
+.brown_banner {
+    background-image: url(./1.16.png);
+    background-position: -160px -832px;
+    width: 32px;
+    height: 32px;
+}
+.green_banner {
+    background-image: url(./1.16.png);
+    background-position: -192px -832px;
+    width: 32px;
+    height: 32px;
+}
+.red_banner {
+    background-image: url(./1.16.png);
+    background-position: -224px -832px;
+    width: 32px;
+    height: 32px;
+}
+.black_banner {
+    background-image: url(./1.16.png);
+    background-position: -256px -832px;
+    width: 32px;
+    height: 32px;
+}
+.chorus_fruit {
+    background-image: url(./1.16.png);
+    background-position: -288px -832px;
+    width: 32px;
+    height: 32px;
+}
+.popped_chorus_fruit {
+    background-image: url(./1.16.png);
+    background-position: -320px -832px;
+    width: 32px;
+    height: 32px;
+}
+.beetroot {
+    background-image: url(./1.16.png);
+    background-position: -352px -832px;
+    width: 32px;
+    height: 32px;
+}
+.beetroot_seeds {
+    background-image: url(./1.16.png);
+    background-position: -384px -832px;
+    width: 32px;
+    height: 32px;
+}
+.beetroot_soup {
+    background-image: url(./1.16.png);
+    background-position: -416px -832px;
+    width: 32px;
+    height: 32px;
+}
+.dragon_breath {
+    background-image: url(./1.16.png);
+    background-position: -448px -832px;
+    width: 32px;
+    height: 32px;
+}
+.splash_potion {
+    background-image: url(./1.16.png);
+    background-position: -480px -832px;
+    width: 32px;
+    height: 32px;
+}
+.spectral_arrow {
+    background-image: url(./1.16.png);
+    background-position: -512px -832px;
+    width: 32px;
+    height: 32px;
+}
+.tipped_arrow {
+    background-image: url(./1.16.png);
+    background-position: -544px -832px;
+    width: 32px;
+    height: 32px;
+}
+.lingering_potion {
+    background-image: url(./1.16.png);
+    background-position: -576px -832px;
+    width: 32px;
+    height: 32px;
+}
+.shield {
+    background-image: url(./1.16.png);
+    background-position: -608px -832px;
+    width: 32px;
+    height: 32px;
+}
+.elytra {
+    background-image: url(./1.16.png);
+    background-position: -640px -832px;
+    width: 32px;
+    height: 32px;
+}
+.end_crystal {
+    background-image: url(./1.16.png);
+    background-position: -672px -832px;
+    width: 32px;
+    height: 32px;
+}
+.totem_of_undying {
+    background-image: url(./1.16.png);
+    background-position: -704px -832px;
+    width: 32px;
+    height: 32px;
+}
+.shulker_shell {
+    background-image: url(./1.16.png);
+    background-position: -736px -832px;
+    width: 32px;
+    height: 32px;
+}
+.iron_nugget {
+    background-image: url(./1.16.png);
+    background-position: -768px -832px;
+    width: 32px;
+    height: 32px;
+}
+.seagrass {
+    background-image: url(./1.16.png);
+    background-position: -800px -832px;
+    width: 32px;
+    height: 32px;
+}
+.kelp {
+    background-image: url(./1.16.png);
+    background-position: -832px -832px;
+    width: 32px;
+    height: 32px;
+}
+.dried_kelp {
+    background-image: url(./1.16.png);
+    background-position: -864px 0px;
+    width: 32px;
+    height: 32px;
+}
+.dried_kelp_block {
+    background-image: url(./1.16.png);
+    background-position: -864px -32px;
+    width: 32px;
+    height: 32px;
+}
+.scute {
+    background-image: url(./1.16.png);
+    background-position: -864px -64px;
+    width: 32px;
+    height: 32px;
+}
+.trident {
+    background-image: url(./1.16.png);
+    background-position: -864px -96px;
+    width: 32px;
+    height: 32px;
+}
+.turtle_egg {
+    background-image: url(./1.16.png);
+    background-position: -864px -128px;
+    width: 32px;
+    height: 32px;
+}
+.turtle_helmet {
+    background-image: url(./1.16.png);
+    background-position: -864px -160px;
+    width: 32px;
+    height: 32px;
+}
+.tube_coral_block {
+    background-image: url(./1.16.png);
+    background-position: -864px -192px;
+    width: 32px;
+    height: 32px;
+}
+.brain_coral_block {
+    background-image: url(./1.16.png);
+    background-position: -864px -224px;
+    width: 32px;
+    height: 32px;
+}
+.bubble_coral_block {
+    background-image: url(./1.16.png);
+    background-position: -864px -256px;
+    width: 32px;
+    height: 32px;
+}
+.fire_coral_block {
+    background-image: url(./1.16.png);
+    background-position: -864px -288px;
+    width: 32px;
+    height: 32px;
+}
+.horn_coral_block {
+    background-image: url(./1.16.png);
+    background-position: -864px -320px;
+    width: 32px;
+    height: 32px;
+}
+.dead_tube_coral_block {
+    background-image: url(./1.16.png);
+    background-position: -864px -352px;
+    width: 32px;
+    height: 32px;
+}
+.dead_brain_coral_block {
+    background-image: url(./1.16.png);
+    background-position: -864px -384px;
+    width: 32px;
+    height: 32px;
+}
+.dead_bubble_coral_block {
+    background-image: url(./1.16.png);
+    background-position: -864px -416px;
+    width: 32px;
+    height: 32px;
+}
+.dead_fire_coral_block {
+    background-image: url(./1.16.png);
+    background-position: -864px -448px;
+    width: 32px;
+    height: 32px;
+}
+.dead_horn_coral_block {
+    background-image: url(./1.16.png);
+    background-position: -864px -480px;
+    width: 32px;
+    height: 32px;
+}
+.tube_coral {
+    background-image: url(./1.16.png);
+    background-position: -864px -512px;
+    width: 32px;
+    height: 32px;
+}
+.brain_coral {
+    background-image: url(./1.16.png);
+    background-position: -864px -544px;
+    width: 32px;
+    height: 32px;
+}
+.bubble_coral {
+    background-image: url(./1.16.png);
+    background-position: -864px -576px;
+    width: 32px;
+    height: 32px;
+}
+.fire_coral {
+    background-image: url(./1.16.png);
+    background-position: -864px -608px;
+    width: 32px;
+    height: 32px;
+}
+.horn_coral {
+    background-image: url(./1.16.png);
+    background-position: -864px -640px;
+    width: 32px;
+    height: 32px;
+}
+.tube_coral_fan {
+    background-image: url(./1.16.png);
+    background-position: -864px -672px;
+    width: 32px;
+    height: 32px;
+}
+.brain_coral_fan {
+    background-image: url(./1.16.png);
+    background-position: -864px -704px;
+    width: 32px;
+    height: 32px;
+}
+.bubble_coral_fan {
+    background-image: url(./1.16.png);
+    background-position: -864px -736px;
+    width: 32px;
+    height: 32px;
+}
+.fire_coral_fan {
+    background-image: url(./1.16.png);
+    background-position: -864px -768px;
+    width: 32px;
+    height: 32px;
+}
+.horn_coral_fan {
+    background-image: url(./1.16.png);
+    background-position: -864px -800px;
+    width: 32px;
+    height: 32px;
+}
+.dead_horn_coral_fan {
+    background-image: url(./1.16.png);
+    background-position: -864px -832px;
+    width: 32px;
+    height: 32px;
+}
+.dead_brain_coral_fan {
+    background-image: url(./1.16.png);
+    background-position: 0px -864px;
+    width: 32px;
+    height: 32px;
+}
+.dead_bubble_coral_fan {
+    background-image: url(./1.16.png);
+    background-position: -32px -864px;
+    width: 32px;
+    height: 32px;
+}
+.dead_fire_coral_fan {
+    background-image: url(./1.16.png);
+    background-position: -64px -864px;
+    width: 32px;
+    height: 32px;
+}
+.dead_tube_coral {
+    background-image: url(./1.16.png);
+    background-position: -96px -864px;
+    width: 32px;
+    height: 32px;
+}
+.dead_brain_coral {
+    background-image: url(./1.16.png);
+    background-position: -128px -864px;
+    width: 32px;
+    height: 32px;
+}
+.dead_bubble_coral {
+    background-image: url(./1.16.png);
+    background-position: -160px -864px;
+    width: 32px;
+    height: 32px;
+}
+.dead_fire_coral {
+    background-image: url(./1.16.png);
+    background-position: -192px -864px;
+    width: 32px;
+    height: 32px;
+}
+.dead_horn_coral {
+    background-image: url(./1.16.png);
+    background-position: -224px -864px;
+    width: 32px;
+    height: 32px;
+}
+.dead_tube_coral_fan {
+    background-image: url(./1.16.png);
+    background-position: -256px -864px;
+    width: 32px;
+    height: 32px;
+}
+.phantom_membrane {
+    background-image: url(./1.16.png);
+    background-position: -288px -864px;
+    width: 32px;
+    height: 32px;
+}
+.sea_pickle {
+    background-image: url(./1.16.png);
+    background-position: -320px -864px;
+    width: 32px;
+    height: 32px;
+}
+.heart_of_the_sea {
+    background-image: url(./1.16.png);
+    background-position: -352px -864px;
+    width: 32px;
+    height: 32px;
+}
+.nautilus_shell {
+    background-image: url(./1.16.png);
+    background-position: -384px -864px;
+    width: 32px;
+    height: 32px;
+}
+.conduit {
+    background-image: url(./1.16.png);
+    background-position: -416px -864px;
+    width: 32px;
+    height: 32px;
+}
+.music_disc_13 {
+    background-image: url(./1.16.png);
+    background-position: -448px -864px;
+    width: 32px;
+    height: 32px;
+}
+.music_disc_cat {
+    background-image: url(./1.16.png);
+    background-position: -480px -864px;
+    width: 32px;
+    height: 32px;
+}
+.music_disc_blocks {
+    background-image: url(./1.16.png);
+    background-position: -512px -864px;
+    width: 32px;
+    height: 32px;
+}
+.music_disc_chirp {
+    background-image: url(./1.16.png);
+    background-position: -544px -864px;
+    width: 32px;
+    height: 32px;
+}
+.music_disc_far {
+    background-image: url(./1.16.png);
+    background-position: -576px -864px;
+    width: 32px;
+    height: 32px;
+}
+.music_disc_mall {
+    background-image: url(./1.16.png);
+    background-position: -608px -864px;
+    width: 32px;
+    height: 32px;
+}
+.music_disc_mellohi {
+    background-image: url(./1.16.png);
+    background-position: -640px -864px;
+    width: 32px;
+    height: 32px;
+}
+.music_disc_stal {
+    background-image: url(./1.16.png);
+    background-position: -672px -864px;
+    width: 32px;
+    height: 32px;
+}
+.music_disc_strad {
+    background-image: url(./1.16.png);
+    background-position: -704px -864px;
+    width: 32px;
+    height: 32px;
+}
+.music_disc_ward {
+    background-image: url(./1.16.png);
+    background-position: -736px -864px;
+    width: 32px;
+    height: 32px;
+}
+.music_disc_11 {
+    background-image: url(./1.16.png);
+    background-position: -768px -864px;
+    width: 32px;
+    height: 32px;
+}
+.music_disc_wait {
+    background-image: url(./1.16.png);
+    background-position: -800px -864px;
+    width: 32px;
+    height: 32px;
+}
+.command_block {
+    background-image: url(./1.16.png);
+    background-position: -832px -864px;
+    width: 32px;
+    height: 32px;
+}
+.repeating_command_block {
+    background-image: url(./1.16.png);
+    background-position: -864px -864px;
+    width: 32px;
+    height: 32px;
+}
+.chain_command_block {
+    background-image: url(./1.16.png);
+    background-position: -896px 0px;
+    width: 32px;
+    height: 32px;
+}
+.barrier {
+    background-image: url(./1.16.png);
+    background-position: -896px -32px;
+    width: 32px;
+    height: 32px;
+}
+.structure_block {
+    background-image: url(./1.16.png);
+    background-position: -896px -64px;
+    width: 32px;
+    height: 32px;
+}
+.structure_void {
+    background-image: url(./1.16.png);
+    background-position: -896px -96px;
+    width: 32px;
+    height: 32px;
+}
+.debug_stick {
+    background-image: url(./1.16.png);
+    background-position: -896px -128px;
+    width: 32px;
+    height: 32px;
+}
+.acacia_sign {
+    background-image: url(./1.16.png);
+    background-position: -896px -160px;
+    width: 32px;
+    height: 32px;
+}
+.andesite_slab {
+    background-image: url(./1.16.png);
+    background-position: -896px -192px;
+    width: 32px;
+    height: 32px;
+}
+.andesite_stairs {
+    background-image: url(./1.16.png);
+    background-position: -896px -224px;
+    width: 32px;
+    height: 32px;
+}
+.andesite_wall {
+    background-image: url(./1.16.png);
+    background-position: -896px -256px;
+    width: 32px;
+    height: 32px;
+}
+.bamboo {
+    background-image: url(./1.16.png);
+    background-position: -896px -288px;
+    width: 32px;
+    height: 32px;
+}
+.barrel {
+    background-image: url(./1.16.png);
+    background-position: -896px -320px;
+    width: 32px;
+    height: 32px;
+}
+.bell {
+    background-image: url(./1.16.png);
+    background-position: -896px -352px;
+    width: 32px;
+    height: 32px;
+}
+.birch_sign {
+    background-image: url(./1.16.png);
+    background-position: -896px -384px;
+    width: 32px;
+    height: 32px;
+}
+.black_dye {
+    background-image: url(./1.16.png);
+    background-position: -896px -416px;
+    width: 32px;
+    height: 32px;
+}
+.blast_furnace {
+    background-image: url(./1.16.png);
+    background-position: -896px -448px;
+    width: 32px;
+    height: 32px;
+}
+.blue_dye {
+    background-image: url(./1.16.png);
+    background-position: -896px -480px;
+    width: 32px;
+    height: 32px;
+}
+.brick_wall {
+    background-image: url(./1.16.png);
+    background-position: -896px -512px;
+    width: 32px;
+    height: 32px;
+}
+.brown_dye {
+    background-image: url(./1.16.png);
+    background-position: -896px -544px;
+    width: 32px;
+    height: 32px;
+}
+.campfire {
+    background-image: url(./1.16.png);
+    background-position: -896px -576px;
+    width: 32px;
+    height: 32px;
+}
+.cartography_table {
+    background-image: url(./1.16.png);
+    background-position: -896px -608px;
+    width: 32px;
+    height: 32px;
+}
+.composter {
+    background-image: url(./1.16.png);
+    background-position: -896px -640px;
+    width: 32px;
+    height: 32px;
+}
+.cornflower {
+    background-image: url(./1.16.png);
+    background-position: -896px -672px;
+    width: 32px;
+    height: 32px;
+}
+.creeper_banner_pattern {
+    background-image: url(./1.16.png);
+    background-position: -896px -704px;
+    width: 32px;
+    height: 32px;
+}
+.crossbow {
+    background-image: url(./1.16.png);
+    background-position: -896px -736px;
+    width: 32px;
+    height: 32px;
+}
+.cut_red_sandstone_slab {
+    background-image: url(./1.16.png);
+    background-position: -896px -768px;
+    width: 32px;
+    height: 32px;
+}
+.cut_sandstone_slab {
+    background-image: url(./1.16.png);
+    background-position: -896px -800px;
+    width: 32px;
+    height: 32px;
+}
+.dark_oak_sign {
+    background-image: url(./1.16.png);
+    background-position: -896px -832px;
+    width: 32px;
+    height: 32px;
+}
+.diorite_slab {
+    background-image: url(./1.16.png);
+    background-position: -896px -864px;
+    width: 32px;
+    height: 32px;
+}
+.diorite_stairs {
+    background-image: url(./1.16.png);
+    background-position: 0px -896px;
+    width: 32px;
+    height: 32px;
+}
+.diorite_wall {
+    background-image: url(./1.16.png);
+    background-position: -32px -896px;
+    width: 32px;
+    height: 32px;
+}
+.end_stone_brick_slab {
+    background-image: url(./1.16.png);
+    background-position: -64px -896px;
+    width: 32px;
+    height: 32px;
+}
+.end_stone_brick_stairs {
+    background-image: url(./1.16.png);
+    background-position: -96px -896px;
+    width: 32px;
+    height: 32px;
+}
+.end_stone_brick_wall {
+    background-image: url(./1.16.png);
+    background-position: -128px -896px;
+    width: 32px;
+    height: 32px;
+}
+.fletching_table {
+    background-image: url(./1.16.png);
+    background-position: -160px -896px;
+    width: 32px;
+    height: 32px;
+}
+.flower_banner_pattern {
+    background-image: url(./1.16.png);
+    background-position: -192px -896px;
+    width: 32px;
+    height: 32px;
+}
+.globe_banner_pattern {
+    background-image: url(./1.16.png);
+    background-position: -224px -896px;
+    width: 32px;
+    height: 32px;
+}
+.granite_slab {
+    background-image: url(./1.16.png);
+    background-position: -256px -896px;
+    width: 32px;
+    height: 32px;
+}
+.granite_stairs {
+    background-image: url(./1.16.png);
+    background-position: -288px -896px;
+    width: 32px;
+    height: 32px;
+}
+.granite_wall {
+    background-image: url(./1.16.png);
+    background-position: -320px -896px;
+    width: 32px;
+    height: 32px;
+}
+.grindstone {
+    background-image: url(./1.16.png);
+    background-position: -352px -896px;
+    width: 32px;
+    height: 32px;
+}
+.jungle_sign {
+    background-image: url(./1.16.png);
+    background-position: -384px -896px;
+    width: 32px;
+    height: 32px;
+}
+.lantern {
+    background-image: url(./1.16.png);
+    background-position: -416px -896px;
+    width: 32px;
+    height: 32px;
+}
+.leather_horse_armor {
+    background-image: url(./1.16.png);
+    background-position: -448px -896px;
+    width: 32px;
+    height: 32px;
+}
+.lectern {
+    background-image: url(./1.16.png);
+    background-position: -480px -896px;
+    width: 32px;
+    height: 32px;
+}
+.lily_of_the_valley {
+    background-image: url(./1.16.png);
+    background-position: -512px -896px;
+    width: 32px;
+    height: 32px;
+}
+.loom {
+    background-image: url(./1.16.png);
+    background-position: -544px -896px;
+    width: 32px;
+    height: 32px;
+}
+.mojang_banner_pattern {
+    background-image: url(./1.16.png);
+    background-position: -576px -896px;
+    width: 32px;
+    height: 32px;
+}
+.mossy_cobblestone_slab {
+    background-image: url(./1.16.png);
+    background-position: -608px -896px;
+    width: 32px;
+    height: 32px;
+}
+.mossy_cobblestone_stairs {
+    background-image: url(./1.16.png);
+    background-position: -640px -896px;
+    width: 32px;
+    height: 32px;
+}
+.mossy_stone_brick_slab {
+    background-image: url(./1.16.png);
+    background-position: -672px -896px;
+    width: 32px;
+    height: 32px;
+}
+.mossy_stone_brick_stairs {
+    background-image: url(./1.16.png);
+    background-position: -704px -896px;
+    width: 32px;
+    height: 32px;
+}
+.mossy_stone_brick_wall {
+    background-image: url(./1.16.png);
+    background-position: -736px -896px;
+    width: 32px;
+    height: 32px;
+}
+.nether_brick_wall {
+    background-image: url(./1.16.png);
+    background-position: -768px -896px;
+    width: 32px;
+    height: 32px;
+}
+.polished_andesite_slab {
+    background-image: url(./1.16.png);
+    background-position: -800px -896px;
+    width: 32px;
+    height: 32px;
+}
+.polished_andesite_stairs {
+    background-image: url(./1.16.png);
+    background-position: -832px -896px;
+    width: 32px;
+    height: 32px;
+}
+.polished_diorite_slab {
+    background-image: url(./1.16.png);
+    background-position: -864px -896px;
+    width: 32px;
+    height: 32px;
+}
+.polished_diorite_stairs {
+    background-image: url(./1.16.png);
+    background-position: -896px -896px;
+    width: 32px;
+    height: 32px;
+}
+.polished_granite_slab {
+    background-image: url(./1.16.png);
+    background-position: -928px 0px;
+    width: 32px;
+    height: 32px;
+}
+.polished_granite_stairs {
+    background-image: url(./1.16.png);
+    background-position: -928px -32px;
+    width: 32px;
+    height: 32px;
+}
+.prismarine_wall {
+    background-image: url(./1.16.png);
+    background-position: -928px -64px;
+    width: 32px;
+    height: 32px;
+}
+.red_nether_brick_slab {
+    background-image: url(./1.16.png);
+    background-position: -928px -96px;
+    width: 32px;
+    height: 32px;
+}
+.red_nether_brick_stairs {
+    background-image: url(./1.16.png);
+    background-position: -928px -128px;
+    width: 32px;
+    height: 32px;
+}
+.red_nether_brick_wall {
+    background-image: url(./1.16.png);
+    background-position: -928px -160px;
+    width: 32px;
+    height: 32px;
+}
+.red_sandstone_wall {
+    background-image: url(./1.16.png);
+    background-position: -928px -192px;
+    width: 32px;
+    height: 32px;
+}
+.sandstone_wall {
+    background-image: url(./1.16.png);
+    background-position: -928px -224px;
+    width: 32px;
+    height: 32px;
+}
+.scaffolding {
+    background-image: url(./1.16.png);
+    background-position: -928px -256px;
+    width: 32px;
+    height: 32px;
+}
+.skull_banner_pattern {
+    background-image: url(./1.16.png);
+    background-position: -928px -288px;
+    width: 32px;
+    height: 32px;
+}
+.smithing_table {
+    background-image: url(./1.16.png);
+    background-position: -928px -320px;
+    width: 32px;
+    height: 32px;
+}
+.smoker {
+    background-image: url(./1.16.png);
+    background-position: -928px -352px;
+    width: 32px;
+    height: 32px;
+}
+.smooth_quartz_slab {
+    background-image: url(./1.16.png);
+    background-position: -928px -384px;
+    width: 32px;
+    height: 32px;
+}
+.smooth_quartz_stairs {
+    background-image: url(./1.16.png);
+    background-position: -928px -416px;
+    width: 32px;
+    height: 32px;
+}
+.smooth_red_sandstone_slab {
+    background-image: url(./1.16.png);
+    background-position: -928px -448px;
+    width: 32px;
+    height: 32px;
+}
+.smooth_red_sandstone_stairs {
+    background-image: url(./1.16.png);
+    background-position: -928px -480px;
+    width: 32px;
+    height: 32px;
+}
+.smooth_sandstone_slab {
+    background-image: url(./1.16.png);
+    background-position: -928px -512px;
+    width: 32px;
+    height: 32px;
+}
+.smooth_sandstone_stairs {
+    background-image: url(./1.16.png);
+    background-position: -928px -544px;
+    width: 32px;
+    height: 32px;
+}
+.spruce_sign {
+    background-image: url(./1.16.png);
+    background-position: -928px -576px;
+    width: 32px;
+    height: 32px;
+}
+.stone_brick_wall {
+    background-image: url(./1.16.png);
+    background-position: -928px -608px;
+    width: 32px;
+    height: 32px;
+}
+.stone_stairs {
+    background-image: url(./1.16.png);
+    background-position: -928px -640px;
+    width: 32px;
+    height: 32px;
+}
+.stone_slab {
+    background-image: url(./1.16.png);
+    background-position: -928px -672px;
+    width: 32px;
+    height: 32px;
+}
+.stonecutter {
+    background-image: url(./1.16.png);
+    background-position: -928px -704px;
+    width: 32px;
+    height: 32px;
+}
+.suspicious_stew {
+    background-image: url(./1.16.png);
+    background-position: -928px -736px;
+    width: 32px;
+    height: 32px;
+}
+.sweet_berries {
+    background-image: url(./1.16.png);
+    background-position: -928px -768px;
+    width: 32px;
+    height: 32px;
+}
+.white_dye {
+    background-image: url(./1.16.png);
+    background-position: -928px -800px;
+    width: 32px;
+    height: 32px;
+}
+.wither_rose {
+    background-image: url(./1.16.png);
+    background-position: -928px -832px;
+    width: 32px;
+    height: 32px;
+}
+.jigsaw {
+    background-image: url(./1.16.png);
+    background-position: -928px -864px;
+    width: 32px;
+    height: 32px;
+}
+.cat_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -928px -896px;
+    width: 32px;
+    height: 32px;
+}
+.fox_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: 0px -928px;
+    width: 32px;
+    height: 32px;
+}
+.panda_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -32px -928px;
+    width: 32px;
+    height: 32px;
+}
+.pillager_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -64px -928px;
+    width: 32px;
+    height: 32px;
+}
+.ravager_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -96px -928px;
+    width: 32px;
+    height: 32px;
+}
+.trader_llama_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -128px -928px;
+    width: 32px;
+    height: 32px;
+}
+.wandering_trader_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -160px -928px;
+    width: 32px;
+    height: 32px;
+}
+.beehive {
+    background-image: url(./1.16.png);
+    background-position: -192px -928px;
+    width: 32px;
+    height: 32px;
+}
+.bee_nest {
+    background-image: url(./1.16.png);
+    background-position: -224px -928px;
+    width: 32px;
+    height: 32px;
+}
+.honey_block {
+    background-image: url(./1.16.png);
+    background-position: -256px -928px;
+    width: 32px;
+    height: 32px;
+}
+.honeycomb_block {
+    background-image: url(./1.16.png);
+    background-position: -288px -928px;
+    width: 32px;
+    height: 32px;
+}
+.honey_bottle {
+    background-image: url(./1.16.png);
+    background-position: -320px -928px;
+    width: 32px;
+    height: 32px;
+}
+.honeycomb {
+    background-image: url(./1.16.png);
+    background-position: -352px -928px;
+    width: 32px;
+    height: 32px;
+}
+.bee_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -384px -928px;
+    width: 32px;
+    height: 32px;
+}
+.mushroom_stem {
+    background-image: url(./1.16.png);
+    background-position: -416px -928px;
+    width: 32px;
+    height: 32px;
+}
+.basalt {
+    background-image: url(./1.16.png);
+    background-position: -448px -928px;
+    width: 32px;
+    height: 32px;
+}
+.polished_basalt {
+    background-image: url(./1.16.png);
+    background-position: -480px -928px;
+    width: 32px;
+    height: 32px;
+}
+.nether_sprouts {
+    background-image: url(./1.16.png);
+    background-position: -512px -928px;
+    width: 32px;
+    height: 32px;
+}
+.stripped_warped_stem {
+    background-image: url(./1.16.png);
+    background-position: -544px -928px;
+    width: 32px;
+    height: 32px;
+}
+.warped_button {
+    background-image: url(./1.16.png);
+    background-position: -576px -928px;
+    width: 32px;
+    height: 32px;
+}
+.warped_door {
+    background-image: url(./1.16.png);
+    background-position: -608px -928px;
+    width: 32px;
+    height: 32px;
+}
+.warped_fence {
+    background-image: url(./1.16.png);
+    background-position: -640px -928px;
+    width: 32px;
+    height: 32px;
+}
+.warped_fence_gate {
+    background-image: url(./1.16.png);
+    background-position: -672px -928px;
+    width: 32px;
+    height: 32px;
+}
+.warped_fungus {
+    background-image: url(./1.16.png);
+    background-position: -704px -928px;
+    width: 32px;
+    height: 32px;
+}
+.warped_nylium {
+    background-image: url(./1.16.png);
+    background-position: -736px -928px;
+    width: 32px;
+    height: 32px;
+}
+.warped_planks {
+    background-image: url(./1.16.png);
+    background-position: -768px -928px;
+    width: 32px;
+    height: 32px;
+}
+.warped_pressure_plate {
+    background-image: url(./1.16.png);
+    background-position: -800px -928px;
+    width: 32px;
+    height: 32px;
+}
+.warped_roots {
+    background-image: url(./1.16.png);
+    background-position: -832px -928px;
+    width: 32px;
+    height: 32px;
+}
+.warped_sign {
+    background-image: url(./1.16.png);
+    background-position: -864px -928px;
+    width: 32px;
+    height: 32px;
+}
+.warped_slab {
+    background-image: url(./1.16.png);
+    background-position: -896px -928px;
+    width: 32px;
+    height: 32px;
+}
+.warped_stairs {
+    background-image: url(./1.16.png);
+    background-position: -928px -928px;
+    width: 32px;
+    height: 32px;
+}
+.warped_stem {
+    background-image: url(./1.16.png);
+    background-position: -960px 0px;
+    width: 32px;
+    height: 32px;
+}
+.warped_trapdoor {
+    background-image: url(./1.16.png);
+    background-position: -960px -32px;
+    width: 32px;
+    height: 32px;
+}
+.warped_wart_block {
+    background-image: url(./1.16.png);
+    background-position: -960px -64px;
+    width: 32px;
+    height: 32px;
+}
+.ancient_debris {
+    background-image: url(./1.16.png);
+    background-position: -960px -96px;
+    width: 32px;
+    height: 32px;
+}
+.netherite_axe {
+    background-image: url(./1.16.png);
+    background-position: -960px -128px;
+    width: 32px;
+    height: 32px;
+}
+.netherite_block {
+    background-image: url(./1.16.png);
+    background-position: -960px -160px;
+    width: 32px;
+    height: 32px;
+}
+.netherite_boots {
+    background-image: url(./1.16.png);
+    background-position: -960px -192px;
+    width: 32px;
+    height: 32px;
+}
+.netherite_chestplate {
+    background-image: url(./1.16.png);
+    background-position: -960px -224px;
+    width: 32px;
+    height: 32px;
+}
+.netherite_helmet {
+    background-image: url(./1.16.png);
+    background-position: -960px -256px;
+    width: 32px;
+    height: 32px;
+}
+.netherite_hoe {
+    background-image: url(./1.16.png);
+    background-position: -960px -288px;
+    width: 32px;
+    height: 32px;
+}
+.netherite_ingot {
+    background-image: url(./1.16.png);
+    background-position: -960px -320px;
+    width: 32px;
+    height: 32px;
+}
+.netherite_leggings {
+    background-image: url(./1.16.png);
+    background-position: -960px -352px;
+    width: 32px;
+    height: 32px;
+}
+.netherite_pickaxe {
+    background-image: url(./1.16.png);
+    background-position: -960px -384px;
+    width: 32px;
+    height: 32px;
+}
+.netherite_scrap {
+    background-image: url(./1.16.png);
+    background-position: -960px -416px;
+    width: 32px;
+    height: 32px;
+}
+.netherite_shovel {
+    background-image: url(./1.16.png);
+    background-position: -960px -448px;
+    width: 32px;
+    height: 32px;
+}
+.netherite_sword {
+    background-image: url(./1.16.png);
+    background-position: -960px -480px;
+    width: 32px;
+    height: 32px;
+}
+.shroomlight {
+    background-image: url(./1.16.png);
+    background-position: -960px -512px;
+    width: 32px;
+    height: 32px;
+}
+.crimson_button {
+    background-image: url(./1.16.png);
+    background-position: -960px -544px;
+    width: 32px;
+    height: 32px;
+}
+.crimson_door {
+    background-image: url(./1.16.png);
+    background-position: -960px -576px;
+    width: 32px;
+    height: 32px;
+}
+.crimson_fence {
+    background-image: url(./1.16.png);
+    background-position: -960px -608px;
+    width: 32px;
+    height: 32px;
+}
+.crimson_fence_gate {
+    background-image: url(./1.16.png);
+    background-position: -960px -640px;
+    width: 32px;
+    height: 32px;
+}
+.crimson_fungus {
+    background-image: url(./1.16.png);
+    background-position: -960px -672px;
+    width: 32px;
+    height: 32px;
+}
+.crimson_nylium {
+    background-image: url(./1.16.png);
+    background-position: -960px -704px;
+    width: 32px;
+    height: 32px;
+}
+.crimson_planks {
+    background-image: url(./1.16.png);
+    background-position: -960px -736px;
+    width: 32px;
+    height: 32px;
+}
+.crimson_pressure_plate {
+    background-image: url(./1.16.png);
+    background-position: -960px -768px;
+    width: 32px;
+    height: 32px;
+}
+.crimson_roots {
+    background-image: url(./1.16.png);
+    background-position: -960px -800px;
+    width: 32px;
+    height: 32px;
+}
+.crimson_sign {
+    background-image: url(./1.16.png);
+    background-position: -960px -832px;
+    width: 32px;
+    height: 32px;
+}
+.crimson_slab {
+    background-image: url(./1.16.png);
+    background-position: -960px -864px;
+    width: 32px;
+    height: 32px;
+}
+.crimson_stairs {
+    background-image: url(./1.16.png);
+    background-position: -960px -896px;
+    width: 32px;
+    height: 32px;
+}
+.crimson_stem {
+    background-image: url(./1.16.png);
+    background-position: -960px -928px;
+    width: 32px;
+    height: 32px;
+}
+.crimson_trapdoor {
+    background-image: url(./1.16.png);
+    background-position: 0px -960px;
+    width: 32px;
+    height: 32px;
+}
+.stripped_crimson_stem {
+    background-image: url(./1.16.png);
+    background-position: -32px -960px;
+    width: 32px;
+    height: 32px;
+}
+.soul_lantern {
+    background-image: url(./1.16.png);
+    background-position: -64px -960px;
+    width: 32px;
+    height: 32px;
+}
+.soul_torch {
+    background-image: url(./1.16.png);
+    background-position: -96px -960px;
+    width: 32px;
+    height: 32px;
+}
+.soul_soil {
+    background-image: url(./1.16.png);
+    background-position: -128px -960px;
+    width: 32px;
+    height: 32px;
+}
+.weeping_vines {
+    background-image: url(./1.16.png);
+    background-position: -160px -960px;
+    width: 32px;
+    height: 32px;
+}
+.hoglin_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -192px -960px;
+    width: 32px;
+    height: 32px;
+}
+.piglin_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -224px -960px;
+    width: 32px;
+    height: 32px;
+}
+.piglin_brute_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -256px -960px;
+    width: 32px;
+    height: 32px;
+}
+.crying_obsidian {
+    background-image: url(./1.16.png);
+    background-position: -288px -960px;
+    width: 32px;
+    height: 32px;
+}
+.target {
+    background-image: url(./1.16.png);
+    background-position: -320px -960px;
+    width: 32px;
+    height: 32px;
+}
+.crimson_hyphae {
+    background-image: url(./1.16.png);
+    background-position: -352px -960px;
+    width: 32px;
+    height: 32px;
+}
+.warped_hyphae {
+    background-image: url(./1.16.png);
+    background-position: -384px -960px;
+    width: 32px;
+    height: 32px;
+}
+.stripped_crimson_hyphae {
+    background-image: url(./1.16.png);
+    background-position: -416px -960px;
+    width: 32px;
+    height: 32px;
+}
+.stripped_warped_hyphae {
+    background-image: url(./1.16.png);
+    background-position: -448px -960px;
+    width: 32px;
+    height: 32px;
+}
+.nether_gold_ore {
+    background-image: url(./1.16.png);
+    background-position: -480px -960px;
+    width: 32px;
+    height: 32px;
+}
+.gilded_blackstone {
+    background-image: url(./1.16.png);
+    background-position: -512px -960px;
+    width: 32px;
+    height: 32px;
+}
+.twisting_vines {
+    background-image: url(./1.16.png);
+    background-position: -544px -960px;
+    width: 32px;
+    height: 32px;
+}
+.respawn_anchor {
+    background-image: url(./1.16.png);
+    background-position: -576px -960px;
+    width: 32px;
+    height: 32px;
+}
+.lodestone {
+    background-image: url(./1.16.png);
+    background-position: -608px -960px;
+    width: 32px;
+    height: 32px;
+}
+.warped_fungus_on_a_stick {
+    background-image: url(./1.16.png);
+    background-position: -640px -960px;
+    width: 32px;
+    height: 32px;
+}
+.strider_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -672px -960px;
+    width: 32px;
+    height: 32px;
+}
+.zoglin_spawn_egg {
+    background-image: url(./1.16.png);
+    background-position: -704px -960px;
+    width: 32px;
+    height: 32px;
+}
+.blackstone {
+    background-image: url(./1.16.png);
+    background-position: -736px -960px;
+    width: 32px;
+    height: 32px;
+}
+.blackstone_slab {
+    background-image: url(./1.16.png);
+    background-position: -768px -960px;
+    width: 32px;
+    height: 32px;
+}
+.blackstone_stairs {
+    background-image: url(./1.16.png);
+    background-position: -800px -960px;
+    width: 32px;
+    height: 32px;
+}
+.blackstone_wall {
+    background-image: url(./1.16.png);
+    background-position: -832px -960px;
+    width: 32px;
+    height: 32px;
+}
+.polished_blackstone {
+    background-image: url(./1.16.png);
+    background-position: -864px -960px;
+    width: 32px;
+    height: 32px;
+}
+.polished_blackstone_slab {
+    background-image: url(./1.16.png);
+    background-position: -896px -960px;
+    width: 32px;
+    height: 32px;
+}
+.polished_blackstone_stairs {
+    background-image: url(./1.16.png);
+    background-position: -928px -960px;
+    width: 32px;
+    height: 32px;
+}
+.polished_blackstone_wall {
+    background-image: url(./1.16.png);
+    background-position: -960px -960px;
+    width: 32px;
+    height: 32px;
+}
+.polished_blackstone_button {
+    background-image: url(./1.16.png);
+    background-position: -992px 0px;
+    width: 32px;
+    height: 32px;
+}
+.polished_blackstone_pressure_plate {
+    background-image: url(./1.16.png);
+    background-position: -992px -32px;
+    width: 32px;
+    height: 32px;
+}
+.chiseled_polished_blackstone {
+    background-image: url(./1.16.png);
+    background-position: -992px -64px;
+    width: 32px;
+    height: 32px;
+}
+.polished_blackstone_bricks {
+    background-image: url(./1.16.png);
+    background-position: -992px -96px;
+    width: 32px;
+    height: 32px;
+}
+.polished_blackstone_brick_stairs {
+    background-image: url(./1.16.png);
+    background-position: -992px -128px;
+    width: 32px;
+    height: 32px;
+}
+.polished_blackstone_brick_wall {
+    background-image: url(./1.16.png);
+    background-position: -992px -160px;
+    width: 32px;
+    height: 32px;
+}
+.polished_blackstone_brick_slab {
+    background-image: url(./1.16.png);
+    background-position: -992px -192px;
+    width: 32px;
+    height: 32px;
+}
+.cracked_polished_blackstone_bricks {
+    background-image: url(./1.16.png);
+    background-position: -992px -224px;
+    width: 32px;
+    height: 32px;
+}
+.chiseled_nether_bricks {
+    background-image: url(./1.16.png);
+    background-position: -992px -256px;
+    width: 32px;
+    height: 32px;
+}
+.cracked_nether_bricks {
+    background-image: url(./1.16.png);
+    background-position: -992px -288px;
+    width: 32px;
+    height: 32px;
+}
+.quartz_bricks {
+    background-image: url(./1.16.png);
+    background-position: -992px -320px;
+    width: 32px;
+    height: 32px;
+}
+.soul_campfire {
+    background-image: url(./1.16.png);
+    background-position: -992px -352px;
+    width: 32px;
+    height: 32px;
+}
+.chain {
+    background-image: url(./1.16.png);
+    background-position: -992px -384px;
+    width: 32px;
+    height: 32px;
+}
+.music_disc_pigstep {
+    background-image: url(./1.16.png);
+    background-position: -992px -416px;
+    width: 32px;
+    height: 32px;
+}
+.piglin_banner_pattern {
+    background-image: url(./1.16.png);
+    background-position: -992px -448px;
+    width: 32px;
+    height: 32px;
+}

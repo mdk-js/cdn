@@ -1,0 +1,11 @@
+{
+  "name": "@wikijs/root",
+  "version": "0.0.0",
+  "private": true,
+  "description": "",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "hans0000",
+  "license": "MIT"
+}

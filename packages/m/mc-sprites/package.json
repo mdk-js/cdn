@@ -1,0 +1,19 @@
+{
+  "name": "@wikijs/mc-sprites",
+  "version": "1.0.0",
+  "description": "",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "minecrafat",
+    "sprites"
+  ],
+  "files": [
+    "dist",
+    "package.json",
+    "readme.md"
+  ],
+  "author": "",
+  "license": "MIT"
+}
