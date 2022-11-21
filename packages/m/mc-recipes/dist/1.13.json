@@ -1,2046 +1,2557 @@
 [
     {
         "file": "acacia_boat",
+        "type": "haped",
         "id": "acacia_boat"
     },
     {
         "file": "acacia_button",
+        "type": "hapeless",
         "id": "acacia_button"
     },
     {
         "file": "acacia_door",
+        "type": "haped",
         "id": "acacia_door"
     },
     {
         "file": "acacia_fence",
+        "type": "haped",
         "id": "acacia_fence"
     },
     {
         "file": "acacia_fence_gate",
+        "type": "haped",
         "id": "acacia_fence_gate"
     },
     {
         "file": "acacia_planks",
+        "type": "hapeless",
         "id": "acacia_planks"
     },
     {
         "file": "acacia_pressure_plate",
+        "type": "haped",
         "id": "acacia_pressure_plate"
     },
     {
         "file": "acacia_slab",
+        "type": "haped",
         "id": "acacia_slab"
     },
     {
         "file": "acacia_stairs",
+        "type": "haped",
         "id": "acacia_stairs"
     },
     {
         "file": "acacia_trapdoor",
+        "type": "haped",
         "id": "acacia_trapdoor"
     },
     {
         "file": "acacia_wood",
+        "type": "haped",
         "id": "acacia_wood"
     },
     {
         "file": "activator_rail",
+        "type": "haped",
         "id": "activator_rail"
     },
     {
         "file": "andesite",
+        "type": "hapeless",
         "id": "andesite"
     },
     {
         "file": "anvil",
+        "type": "haped",
         "id": "anvil"
     },
     {
         "file": "armor_stand",
+        "type": "haped",
         "id": "armor_stand"
     },
     {
         "file": "arrow",
+        "type": "haped",
         "id": "arrow"
     },
     {
         "file": "baked_potato",
+        "type": "",
         "id": "baked_potato"
     },
     {
         "file": "beacon",
+        "type": "haped",
         "id": "beacon"
     },
     {
         "file": "beetroot_soup",
+        "type": "haped",
         "id": "beetroot_soup"
     },
     {
         "file": "birch_boat",
+        "type": "haped",
         "id": "birch_boat"
     },
     {
         "file": "birch_button",
+        "type": "hapeless",
         "id": "birch_button"
     },
     {
         "file": "birch_door",
+        "type": "haped",
         "id": "birch_door"
     },
     {
         "file": "birch_fence",
+        "type": "haped",
         "id": "birch_fence"
     },
     {
         "file": "birch_fence_gate",
+        "type": "haped",
         "id": "birch_fence_gate"
     },
     {
         "file": "birch_planks",
+        "type": "hapeless",
         "id": "birch_planks"
     },
     {
         "file": "birch_pressure_plate",
+        "type": "haped",
         "id": "birch_pressure_plate"
     },
     {
         "file": "birch_slab",
+        "type": "haped",
         "id": "birch_slab"
     },
     {
         "file": "birch_stairs",
+        "type": "haped",
         "id": "birch_stairs"
     },
     {
         "file": "birch_trapdoor",
+        "type": "haped",
         "id": "birch_trapdoor"
     },
     {
         "file": "birch_wood",
+        "type": "haped",
         "id": "birch_wood"
     },
     {
         "file": "black_banner",
+        "type": "haped",
         "id": "black_banner"
     },
     {
         "file": "black_bed",
+        "type": "haped",
         "id": "black_bed"
     },
     {
         "file": "black_bed_from_white_bed",
+        "type": "hapeless",
         "id": "black_bed"
     },
     {
         "file": "black_carpet",
+        "type": "haped",
         "id": "black_carpet"
     },
     {
         "file": "black_concrete_powder",
+        "type": "hapeless",
         "id": "black_concrete_powder"
     },
     {
         "file": "black_glazed_terracotta",
+        "type": "",
         "id": "black_glazed_terracotta"
     },
     {
         "file": "black_stained_glass",
+        "type": "haped",
         "id": "black_stained_glass"
     },
     {
         "file": "black_stained_glass_pane",
+        "type": "haped",
         "id": "black_stained_glass_pane"
     },
     {
         "file": "black_terracotta",
+        "type": "haped",
         "id": "black_terracotta"
     },
     {
         "file": "black_wool",
+        "type": "hapeless",
         "id": "black_wool"
     },
     {
         "file": "blaze_powder",
+        "type": "hapeless",
         "id": "blaze_powder"
     },
     {
         "file": "blue_banner",
+        "type": "haped",
         "id": "blue_banner"
     },
     {
         "file": "blue_bed",
+        "type": "haped",
         "id": "blue_bed"
     },
     {
         "file": "blue_bed_from_white_bed",
+        "type": "hapeless",
         "id": "blue_bed"
     },
     {
         "file": "blue_carpet",
+        "type": "haped",
         "id": "blue_carpet"
     },
     {
         "file": "blue_concrete_powder",
+        "type": "hapeless",
         "id": "blue_concrete_powder"
     },
     {
         "file": "blue_glazed_terracotta",
+        "type": "",
         "id": "blue_glazed_terracotta"
     },
     {
         "file": "blue_ice",
+        "type": "haped",
         "id": "blue_ice"
     },
     {
         "file": "blue_stained_glass",
+        "type": "haped",
         "id": "blue_stained_glass"
     },
     {
         "file": "blue_stained_glass_pane",
+        "type": "haped",
         "id": "blue_stained_glass_pane"
     },
     {
         "file": "blue_terracotta",
+        "type": "haped",
         "id": "blue_terracotta"
     },
     {
         "file": "blue_wool",
+        "type": "hapeless",
         "id": "blue_wool"
     },
     {
         "file": "bone_block",
+        "type": "haped",
         "id": "bone_block"
     },
     {
         "file": "bone_meal",
+        "type": "hapeless",
         "id": "bone_meal"
     },
     {
         "file": "bone_meal_from_bone_block",
+        "type": "hapeless",
         "id": "bone_meal"
     },
     {
         "file": "book",
+        "type": "hapeless",
         "id": "book"
     },
     {
         "file": "bookshelf",
+        "type": "haped",
         "id": "bookshelf"
     },
     {
         "file": "bow",
+        "type": "haped",
         "id": "bow"
     },
     {
         "file": "bowl",
+        "type": "haped",
         "id": "bowl"
     },
     {
         "file": "bread",
+        "type": "haped",
         "id": "bread"
     },
     {
         "file": "brewing_stand",
+        "type": "haped",
         "id": "brewing_stand"
     },
     {
         "file": "brick",
+        "type": "",
         "id": "brick"
     },
     {
         "file": "bricks",
+        "type": "haped",
         "id": "bricks"
     },
     {
         "file": "brick_slab",
+        "type": "haped",
         "id": "brick_slab"
     },
     {
         "file": "brick_stairs",
+        "type": "haped",
         "id": "brick_stairs"
     },
     {
         "file": "brown_banner",
+        "type": "haped",
         "id": "brown_banner"
     },
     {
         "file": "brown_bed",
+        "type": "haped",
         "id": "brown_bed"
     },
     {
         "file": "brown_bed_from_white_bed",
+        "type": "hapeless",
         "id": "brown_bed"
     },
     {
         "file": "brown_carpet",
+        "type": "haped",
         "id": "brown_carpet"
     },
     {
         "file": "brown_concrete_powder",
+        "type": "hapeless",
         "id": "brown_concrete_powder"
     },
     {
         "file": "brown_glazed_terracotta",
+        "type": "",
         "id": "brown_glazed_terracotta"
     },
     {
         "file": "brown_stained_glass",
+        "type": "haped",
         "id": "brown_stained_glass"
     },
     {
         "file": "brown_stained_glass_pane",
+        "type": "haped",
         "id": "brown_stained_glass_pane"
     },
     {
         "file": "brown_terracotta",
+        "type": "haped",
         "id": "brown_terracotta"
     },
     {
         "file": "brown_wool",
+        "type": "hapeless",
         "id": "brown_wool"
     },
     {
         "file": "bucket",
+        "type": "haped",
         "id": "bucket"
     },
     {
         "file": "cactus_green",
+        "type": "",
         "id": "cactus_green"
     },
     {
         "file": "cake",
+        "type": "haped",
         "id": "cake"
     },
     {
         "file": "carrot_on_a_stick",
+        "type": "haped",
         "id": "carrot_on_a_stick"
     },
     {
         "file": "cauldron",
+        "type": "haped",
         "id": "cauldron"
     },
     {
         "file": "charcoal",
+        "type": "",
         "id": "charcoal"
     },
     {
         "file": "chest",
+        "type": "haped",
         "id": "chest"
     },
     {
         "file": "chest_minecart",
+        "type": "haped",
         "id": "chest_minecart"
     },
     {
         "file": "chiseled_quartz_block",
+        "type": "haped",
         "id": "chiseled_quartz_block"
     },
     {
         "file": "chiseled_red_sandstone",
+        "type": "haped",
         "id": "chiseled_red_sandstone"
     },
     {
         "file": "chiseled_sandstone",
+        "type": "haped",
         "id": "chiseled_sandstone"
     },
     {
         "file": "chiseled_stone_bricks",
+        "type": "haped",
         "id": "chiseled_stone_bricks"
     },
     {
         "file": "clay",
+        "type": "haped",
         "id": "clay"
     },
     {
         "file": "clock",
+        "type": "haped",
         "id": "clock"
     },
     {
         "file": "coal",
+        "type": "hapeless",
         "id": "coal"
     },
     {
         "file": "coal_block",
+        "type": "haped",
         "id": "coal_block"
     },
     {
         "file": "coal_from_smelting",
+        "type": "",
         "id": "coal"
     },
     {
         "file": "coarse_dirt",
+        "type": "haped",
         "id": "coarse_dirt"
     },
     {
         "file": "cobblestone_slab",
+        "type": "haped",
         "id": "cobblestone_slab"
     },
     {
         "file": "cobblestone_stairs",
+        "type": "haped",
         "id": "cobblestone_stairs"
     },
     {
         "file": "cobblestone_wall",
+        "type": "haped",
         "id": "cobblestone_wall"
     },
     {
         "file": "comparator",
+        "type": "haped",
         "id": "comparator"
     },
     {
         "file": "compass",
+        "type": "haped",
         "id": "compass"
     },
     {
         "file": "conduit",
+        "type": "haped",
         "id": "conduit"
     },
     {
         "file": "cooked_beef",
+        "type": "",
         "id": "cooked_beef"
     },
     {
         "file": "cooked_chicken",
+        "type": "",
         "id": "cooked_chicken"
     },
     {
         "file": "cooked_cod",
+        "type": "",
         "id": "cooked_cod"
     },
     {
         "file": "cooked_mutton",
+        "type": "",
         "id": "cooked_mutton"
     },
     {
         "file": "cooked_porkchop",
+        "type": "",
         "id": "cooked_porkchop"
     },
     {
         "file": "cooked_rabbit",
+        "type": "",
         "id": "cooked_rabbit"
     },
     {
         "file": "cooked_salmon",
+        "type": "",
         "id": "cooked_salmon"
     },
     {
         "file": "cookie",
+        "type": "haped",
         "id": "cookie"
     },
     {
         "file": "cracked_stone_bricks",
+        "type": "",
         "id": "cracked_stone_bricks"
     },
     {
         "file": "crafting_table",
+        "type": "haped",
         "id": "crafting_table"
     },
     {
         "file": "cut_red_sandstone",
+        "type": "haped",
         "id": "cut_red_sandstone"
     },
     {
         "file": "cut_sandstone",
+        "type": "haped",
         "id": "cut_sandstone"
     },
     {
         "file": "cyan_banner",
+        "type": "haped",
         "id": "cyan_banner"
     },
     {
         "file": "cyan_bed",
+        "type": "haped",
         "id": "cyan_bed"
     },
     {
         "file": "cyan_bed_from_white_bed",
+        "type": "hapeless",
         "id": "cyan_bed"
     },
     {
         "file": "cyan_carpet",
+        "type": "haped",
         "id": "cyan_carpet"
     },
     {
         "file": "cyan_concrete_powder",
+        "type": "hapeless",
         "id": "cyan_concrete_powder"
     },
     {
         "file": "cyan_dye",
+        "type": "hapeless",
         "id": "cyan_dye"
     },
     {
         "file": "cyan_glazed_terracotta",
+        "type": "",
         "id": "cyan_glazed_terracotta"
     },
     {
         "file": "cyan_stained_glass",
+        "type": "haped",
         "id": "cyan_stained_glass"
     },
     {
         "file": "cyan_stained_glass_pane",
+        "type": "haped",
         "id": "cyan_stained_glass_pane"
     },
     {
         "file": "cyan_terracotta",
+        "type": "haped",
         "id": "cyan_terracotta"
     },
     {
         "file": "cyan_wool",
+        "type": "hapeless",
         "id": "cyan_wool"
     },
     {
         "file": "dark_oak_boat",
+        "type": "haped",
         "id": "dark_oak_boat"
     },
     {
         "file": "dark_oak_button",
+        "type": "hapeless",
         "id": "dark_oak_button"
     },
     {
         "file": "dark_oak_door",
+        "type": "haped",
         "id": "dark_oak_door"
     },
     {
         "file": "dark_oak_fence",
+        "type": "haped",
         "id": "dark_oak_fence"
     },
     {
         "file": "dark_oak_fence_gate",
+        "type": "haped",
         "id": "dark_oak_fence_gate"
     },
     {
         "file": "dark_oak_planks",
+        "type": "hapeless",
         "id": "dark_oak_planks"
     },
     {
         "file": "dark_oak_pressure_plate",
+        "type": "haped",
         "id": "dark_oak_pressure_plate"
     },
     {
         "file": "dark_oak_slab",
+        "type": "haped",
         "id": "dark_oak_slab"
     },
     {
         "file": "dark_oak_stairs",
+        "type": "haped",
         "id": "dark_oak_stairs"
     },
     {
         "file": "dark_oak_trapdoor",
+        "type": "haped",
         "id": "dark_oak_trapdoor"
     },
     {
         "file": "dark_oak_wood",
+        "type": "haped",
         "id": "dark_oak_wood"
     },
     {
         "file": "dark_prismarine",
+        "type": "haped",
         "id": "dark_prismarine"
     },
     {
         "file": "dark_prismarine_slab",
+        "type": "haped",
         "id": "dark_prismarine_slab"
     },
     {
         "file": "dark_prismarine_stairs",
+        "type": "haped",
         "id": "dark_prismarine_stairs"
     },
     {
         "file": "daylight_detector",
+        "type": "haped",
         "id": "daylight_detector"
     },
     {
         "file": "detector_rail",
+        "type": "haped",
         "id": "detector_rail"
     },
     {
         "file": "diamond",
+        "type": "hapeless",
         "id": "diamond"
     },
     {
         "file": "diamond_axe",
+        "type": "haped",
         "id": "diamond_axe"
     },
     {
         "file": "diamond_block",
+        "type": "haped",
         "id": "diamond_block"
     },
     {
         "file": "diamond_boots",
+        "type": "haped",
         "id": "diamond_boots"
     },
     {
         "file": "diamond_chestplate",
+        "type": "haped",
         "id": "diamond_chestplate"
     },
     {
         "file": "diamond_from_smelting",
+        "type": "",
         "id": "diamond"
     },
     {
         "file": "diamond_helmet",
+        "type": "haped",
         "id": "diamond_helmet"
     },
     {
         "file": "diamond_hoe",
+        "type": "haped",
         "id": "diamond_hoe"
     },
     {
         "file": "diamond_leggings",
+        "type": "haped",
         "id": "diamond_leggings"
     },
     {
         "file": "diamond_pickaxe",
+        "type": "haped",
         "id": "diamond_pickaxe"
     },
     {
         "file": "diamond_shovel",
+        "type": "haped",
         "id": "diamond_shovel"
     },
     {
         "file": "diamond_sword",
+        "type": "haped",
         "id": "diamond_sword"
     },
     {
         "file": "diorite",
+        "type": "haped",
         "id": "diorite"
     },
     {
         "file": "dispenser",
+        "type": "haped",
         "id": "dispenser"
     },
     {
         "file": "dried_kelp",
+        "type": "hapeless",
         "id": "dried_kelp"
     },
     {
         "file": "dried_kelp_block",
+        "type": "hapeless",
         "id": "dried_kelp_block"
     },
     {
         "file": "dried_kelp_from_smelting",
+        "type": "",
         "id": "dried_kelp"
     },
     {
         "file": "dropper",
+        "type": "haped",
         "id": "dropper"
     },
     {
         "file": "emerald",
+        "type": "hapeless",
         "id": "emerald"
     },
     {
         "file": "emerald_block",
+        "type": "haped",
         "id": "emerald_block"
     },
     {
         "file": "emerald_from_smelting",
+        "type": "",
         "id": "emerald"
     },
     {
         "file": "enchanting_table",
+        "type": "haped",
         "id": "enchanting_table"
     },
     {
         "file": "ender_chest",
+        "type": "haped",
         "id": "ender_chest"
     },
     {
         "file": "ender_eye",
+        "type": "hapeless",
         "id": "ender_eye"
     },
     {
         "file": "end_crystal",
+        "type": "haped",
         "id": "end_crystal"
     },
     {
         "file": "end_rod",
+        "type": "haped",
         "id": "end_rod"
     },
     {
         "file": "end_stone_bricks",
+        "type": "haped",
         "id": "end_stone_bricks"
     },
     {
         "file": "fermented_spider_eye",
+        "type": "hapeless",
         "id": "fermented_spider_eye"
     },
     {
         "file": "fire_charge",
+        "type": "hapeless",
         "id": "fire_charge"
     },
     {
         "file": "fishing_rod",
+        "type": "haped",
         "id": "fishing_rod"
     },
     {
         "file": "flint_and_steel",
+        "type": "hapeless",
         "id": "flint_and_steel"
     },
     {
         "file": "flower_pot",
+        "type": "haped",
         "id": "flower_pot"
     },
     {
         "file": "furnace",
+        "type": "haped",
         "id": "furnace"
     },
     {
         "file": "furnace_minecart",
+        "type": "haped",
         "id": "furnace_minecart"
     },
     {
         "file": "glass",
+        "type": "",
         "id": "glass"
     },
     {
         "file": "glass_bottle",
+        "type": "haped",
         "id": "glass_bottle"
     },
     {
         "file": "glass_pane",
+        "type": "haped",
         "id": "glass_pane"
     },
     {
         "file": "glistering_melon_slice",
+        "type": "haped",
         "id": "glistering_melon_slice"
     },
     {
         "file": "glowstone",
+        "type": "haped",
         "id": "glowstone"
     },
     {
         "file": "golden_apple",
+        "type": "haped",
         "id": "golden_apple"
     },
     {
         "file": "golden_axe",
+        "type": "haped",
         "id": "golden_axe"
     },
     {
         "file": "golden_boots",
+        "type": "haped",
         "id": "golden_boots"
     },
     {
         "file": "golden_carrot",
+        "type": "haped",
         "id": "golden_carrot"
     },
     {
         "file": "golden_chestplate",
+        "type": "haped",
         "id": "golden_chestplate"
     },
     {
         "file": "golden_helmet",
+        "type": "haped",
         "id": "golden_helmet"
     },
     {
         "file": "golden_hoe",
+        "type": "haped",
         "id": "golden_hoe"
     },
     {
         "file": "golden_leggings",
+        "type": "haped",
         "id": "golden_leggings"
     },
     {
         "file": "golden_pickaxe",
+        "type": "haped",
         "id": "golden_pickaxe"
     },
     {
         "file": "golden_shovel",
+        "type": "haped",
         "id": "golden_shovel"
     },
     {
         "file": "golden_sword",
+        "type": "haped",
         "id": "golden_sword"
     },
     {
         "file": "gold_block",
+        "type": "haped",
         "id": "gold_block"
     },
     {
         "file": "gold_ingot",
+        "type": "",
         "id": "gold_ingot"
     },
     {
         "file": "gold_ingot_from_gold_block",
+        "type": "hapeless",
         "id": "gold_ingot"
     },
     {
         "file": "gold_ingot_from_nuggets",
+        "type": "haped",
         "id": "gold_ingot"
     },
     {
         "file": "gold_nugget",
+        "type": "hapeless",
         "id": "gold_nugget"
     },
     {
         "file": "gold_nugget_from_smelting",
+        "type": "",
         "id": "gold_nugget"
     },
     {
         "file": "granite",
+        "type": "hapeless",
         "id": "granite"
     },
     {
         "file": "gray_banner",
+        "type": "haped",
         "id": "gray_banner"
     },
     {
         "file": "gray_bed",
+        "type": "haped",
         "id": "gray_bed"
     },
     {
         "file": "gray_bed_from_white_bed",
+        "type": "hapeless",
         "id": "gray_bed"
     },
     {
         "file": "gray_carpet",
+        "type": "haped",
         "id": "gray_carpet"
     },
     {
         "file": "gray_concrete_powder",
+        "type": "hapeless",
         "id": "gray_concrete_powder"
     },
     {
         "file": "gray_dye",
+        "type": "hapeless",
         "id": "gray_dye"
     },
     {
         "file": "gray_glazed_terracotta",
+        "type": "",
         "id": "gray_glazed_terracotta"
     },
     {
         "file": "gray_stained_glass",
+        "type": "haped",
         "id": "gray_stained_glass"
     },
     {
         "file": "gray_stained_glass_pane",
+        "type": "haped",
         "id": "gray_stained_glass_pane"
     },
     {
         "file": "gray_terracotta",
+        "type": "haped",
         "id": "gray_terracotta"
     },
     {
         "file": "gray_wool",
+        "type": "hapeless",
         "id": "gray_wool"
     },
     {
         "file": "green_banner",
+        "type": "haped",
         "id": "green_banner"
     },
     {
         "file": "green_bed",
+        "type": "haped",
         "id": "green_bed"
     },
     {
         "file": "green_bed_from_white_bed",
+        "type": "hapeless",
         "id": "green_bed"
     },
     {
         "file": "green_carpet",
+        "type": "haped",
         "id": "green_carpet"
     },
     {
         "file": "green_concrete_powder",
+        "type": "hapeless",
         "id": "green_concrete_powder"
     },
     {
         "file": "green_glazed_terracotta",
+        "type": "",
         "id": "green_glazed_terracotta"
     },
     {
         "file": "green_stained_glass",
+        "type": "haped",
         "id": "green_stained_glass"
     },
     {
         "file": "green_stained_glass_pane",
+        "type": "haped",
         "id": "green_stained_glass_pane"
     },
     {
         "file": "green_terracotta",
+        "type": "haped",
         "id": "green_terracotta"
     },
     {
         "file": "green_wool",
+        "type": "hapeless",
         "id": "green_wool"
     },
     {
         "file": "hay_block",
+        "type": "haped",
         "id": "hay_block"
     },
     {
         "file": "heavy_weighted_pressure_plate",
+        "type": "haped",
         "id": "heavy_weighted_pressure_plate"
     },
     {
         "file": "hopper",
+        "type": "haped",
         "id": "hopper"
     },
     {
         "file": "hopper_minecart",
+        "type": "haped",
         "id": "hopper_minecart"
     },
     {
         "file": "iron_axe",
+        "type": "haped",
         "id": "iron_axe"
     },
     {
         "file": "iron_bars",
+        "type": "haped",
         "id": "iron_bars"
     },
     {
         "file": "iron_block",
+        "type": "haped",
         "id": "iron_block"
     },
     {
         "file": "iron_boots",
+        "type": "haped",
         "id": "iron_boots"
     },
     {
         "file": "iron_chestplate",
+        "type": "haped",
         "id": "iron_chestplate"
     },
     {
         "file": "iron_door",
+        "type": "haped",
         "id": "iron_door"
     },
     {
         "file": "iron_helmet",
+        "type": "haped",
         "id": "iron_helmet"
     },
     {
         "file": "iron_hoe",
+        "type": "haped",
         "id": "iron_hoe"
     },
     {
         "file": "iron_ingot",
+        "type": "",
         "id": "iron_ingot"
     },
     {
         "file": "iron_ingot_from_iron_block",
+        "type": "hapeless",
         "id": "iron_ingot"
     },
     {
         "file": "iron_ingot_from_nuggets",
+        "type": "haped",
         "id": "iron_ingot"
     },
     {
         "file": "iron_leggings",
+        "type": "haped",
         "id": "iron_leggings"
     },
     {
         "file": "iron_nugget",
+        "type": "hapeless",
         "id": "iron_nugget"
     },
     {
         "file": "iron_nugget_from_smelting",
+        "type": "",
         "id": "iron_nugget"
     },
     {
         "file": "iron_pickaxe",
+        "type": "haped",
         "id": "iron_pickaxe"
     },
     {
         "file": "iron_shovel",
+        "type": "haped",
         "id": "iron_shovel"
     },
     {
         "file": "iron_sword",
+        "type": "haped",
         "id": "iron_sword"
     },
     {
         "file": "iron_trapdoor",
+        "type": "haped",
         "id": "iron_trapdoor"
     },
     {
         "file": "item_frame",
+        "type": "haped",
         "id": "item_frame"
     },
     {
         "file": "jack_o_lantern",
+        "type": "haped",
         "id": "jack_o_lantern"
     },
     {
         "file": "jukebox",
+        "type": "haped",
         "id": "jukebox"
     },
     {
         "file": "jungle_boat",
+        "type": "haped",
         "id": "jungle_boat"
     },
     {
         "file": "jungle_button",
+        "type": "hapeless",
         "id": "jungle_button"
     },
     {
         "file": "jungle_door",
+        "type": "haped",
         "id": "jungle_door"
     },
     {
         "file": "jungle_fence",
+        "type": "haped",
         "id": "jungle_fence"
     },
     {
         "file": "jungle_fence_gate",
+        "type": "haped",
         "id": "jungle_fence_gate"
     },
     {
         "file": "jungle_planks",
+        "type": "hapeless",
         "id": "jungle_planks"
     },
     {
         "file": "jungle_pressure_plate",
+        "type": "haped",
         "id": "jungle_pressure_plate"
     },
     {
         "file": "jungle_slab",
+        "type": "haped",
         "id": "jungle_slab"
     },
     {
         "file": "jungle_stairs",
+        "type": "haped",
         "id": "jungle_stairs"
     },
     {
         "file": "jungle_trapdoor",
+        "type": "haped",
         "id": "jungle_trapdoor"
     },
     {
         "file": "jungle_wood",
+        "type": "haped",
         "id": "jungle_wood"
     },
     {
         "file": "ladder",
+        "type": "haped",
         "id": "ladder"
     },
     {
         "file": "lapis_block",
+        "type": "haped",
         "id": "lapis_block"
     },
     {
         "file": "lapis_from_smelting",
+        "type": "",
         "id": "lapis_lazuli"
     },
     {
         "file": "lapis_lazuli",
+        "type": "hapeless",
         "id": "lapis_lazuli"
     },
     {
         "file": "lead",
+        "type": "haped",
         "id": "lead"
     },
     {
         "file": "leather",
+        "type": "haped",
         "id": "leather"
     },
     {
         "file": "leather_boots",
+        "type": "haped",
         "id": "leather_boots"
     },
     {
         "file": "leather_chestplate",
+        "type": "haped",
         "id": "leather_chestplate"
     },
     {
         "file": "leather_helmet",
+        "type": "haped",
         "id": "leather_helmet"
     },
     {
         "file": "leather_leggings",
+        "type": "haped",
         "id": "leather_leggings"
     },
     {
         "file": "lever",
+        "type": "haped",
         "id": "lever"
     },
     {
         "file": "light_blue_banner",
+        "type": "haped",
         "id": "light_blue_banner"
     },
     {
         "file": "light_blue_bed",
+        "type": "haped",
         "id": "light_blue_bed"
     },
     {
         "file": "light_blue_bed_from_white_bed",
+        "type": "hapeless",
         "id": "light_blue_bed"
     },
     {
         "file": "light_blue_carpet",
+        "type": "haped",
         "id": "light_blue_carpet"
     },
     {
         "file": "light_blue_concrete_powder",
+        "type": "hapeless",
         "id": "light_blue_concrete_powder"
     },
     {
         "file": "light_blue_dye_from_blue_orchid",
+        "type": "hapeless",
         "id": "light_blue_dye"
     },
     {
         "file": "light_blue_dye_from_lapis_bonemeal",
+        "type": "hapeless",
         "id": "light_blue_dye"
     },
     {
         "file": "light_blue_glazed_terracotta",
+        "type": "",
         "id": "light_blue_glazed_terracotta"
     },
     {
         "file": "light_blue_stained_glass",
+        "type": "haped",
         "id": "light_blue_stained_glass"
     },
     {
         "file": "light_blue_stained_glass_pane",
+        "type": "haped",
         "id": "light_blue_stained_glass_pane"
     },
     {
         "file": "light_blue_terracotta",
+        "type": "haped",
         "id": "light_blue_terracotta"
     },
     {
         "file": "light_blue_wool",
+        "type": "hapeless",
         "id": "light_blue_wool"
     },
     {
         "file": "light_gray_banner",
+        "type": "haped",
         "id": "light_gray_banner"
     },
     {
         "file": "light_gray_bed",
+        "type": "haped",
         "id": "light_gray_bed"
     },
     {
         "file": "light_gray_bed_from_white_bed",
+        "type": "hapeless",
         "id": "light_gray_bed"
     },
     {
         "file": "light_gray_carpet",
+        "type": "haped",
         "id": "light_gray_carpet"
     },
     {
         "file": "light_gray_concrete_powder",
+        "type": "hapeless",
         "id": "light_gray_concrete_powder"
     },
     {
         "file": "light_gray_dye_from_azure_bluet",
+        "type": "hapeless",
         "id": "light_gray_dye"
     },
     {
         "file": "light_gray_dye_from_gray_bonemeal",
+        "type": "hapeless",
         "id": "light_gray_dye"
     },
     {
         "file": "light_gray_dye_from_ink_bonemeal",
+        "type": "hapeless",
         "id": "light_gray_dye"
     },
     {
         "file": "light_gray_dye_from_oxeye_daisy",
+        "type": "hapeless",
         "id": "light_gray_dye"
     },
     {
         "file": "light_gray_dye_from_white_tulip",
+        "type": "hapeless",
         "id": "light_gray_dye"
     },
     {
         "file": "light_gray_glazed_terracotta",
+        "type": "",
         "id": "light_gray_glazed_terracotta"
     },
     {
         "file": "light_gray_stained_glass",
+        "type": "haped",
         "id": "light_gray_stained_glass"
     },
     {
         "file": "light_gray_stained_glass_pane",
+        "type": "haped",
         "id": "light_gray_stained_glass_pane"
     },
     {
         "file": "light_gray_terracotta",
+        "type": "haped",
         "id": "light_gray_terracotta"
     },
     {
         "file": "light_gray_wool",
+        "type": "hapeless",
         "id": "light_gray_wool"
     },
     {
         "file": "light_weighted_pressure_plate",
+        "type": "haped",
         "id": "light_weighted_pressure_plate"
     },
     {
         "file": "lime_banner",
+        "type": "haped",
         "id": "lime_banner"
     },
     {
         "file": "lime_bed",
+        "type": "haped",
         "id": "lime_bed"
     },
     {
         "file": "lime_bed_from_white_bed",
+        "type": "hapeless",
         "id": "lime_bed"
     },
     {
         "file": "lime_carpet",
+        "type": "haped",
         "id": "lime_carpet"
     },
     {
         "file": "lime_concrete_powder",
+        "type": "hapeless",
         "id": "lime_concrete_powder"
     },
     {
         "file": "lime_dye",
+        "type": "hapeless",
         "id": "lime_dye"
     },
     {
         "file": "lime_dye_from_smelting",
+        "type": "",
         "id": "lime_dye"
     },
     {
         "file": "lime_glazed_terracotta",
+        "type": "",
         "id": "lime_glazed_terracotta"
     },
     {
         "file": "lime_stained_glass",
+        "type": "haped",
         "id": "lime_stained_glass"
     },
     {
         "file": "lime_stained_glass_pane",
+        "type": "haped",
         "id": "lime_stained_glass_pane"
     },
     {
         "file": "lime_terracotta",
+        "type": "haped",
         "id": "lime_terracotta"
     },
     {
         "file": "lime_wool",
+        "type": "hapeless",
         "id": "lime_wool"
     },
     {
         "file": "magenta_banner",
+        "type": "haped",
         "id": "magenta_banner"
     },
     {
         "file": "magenta_bed",
+        "type": "haped",
         "id": "magenta_bed"
     },
     {
         "file": "magenta_bed_from_white_bed",
+        "type": "hapeless",
         "id": "magenta_bed"
     },
     {
         "file": "magenta_carpet",
+        "type": "haped",
         "id": "magenta_carpet"
     },
     {
         "file": "magenta_concrete_powder",
+        "type": "hapeless",
         "id": "magenta_concrete_powder"
     },
     {
         "file": "magenta_dye_from_allium",
+        "type": "hapeless",
         "id": "magenta_dye"
     },
     {
         "file": "magenta_dye_from_lapis_ink_bonemeal",
+        "type": "hapeless",
         "id": "magenta_dye"
     },
     {
         "file": "magenta_dye_from_lapis_red_pink",
+        "type": "hapeless",
         "id": "magenta_dye"
     },
     {
         "file": "magenta_dye_from_lilac",
+        "type": "hapeless",
         "id": "magenta_dye"
     },
     {
         "file": "magenta_dye_from_purple_and_pink",
+        "type": "hapeless",
         "id": "magenta_dye"
     },
     {
         "file": "magenta_glazed_terracotta",
+        "type": "",
         "id": "magenta_glazed_terracotta"
     },
     {
         "file": "magenta_stained_glass",
+        "type": "haped",
         "id": "magenta_stained_glass"
     },
     {
         "file": "magenta_stained_glass_pane",
+        "type": "haped",
         "id": "magenta_stained_glass_pane"
     },
     {
         "file": "magenta_terracotta",
+        "type": "haped",
         "id": "magenta_terracotta"
     },
     {
         "file": "magenta_wool",
+        "type": "hapeless",
         "id": "magenta_wool"
     },
     {
         "file": "magma_block",
+        "type": "haped",
         "id": "magma_block"
     },
     {
         "file": "magma_cream",
+        "type": "hapeless",
         "id": "magma_cream"
     },
     {
         "file": "map",
+        "type": "haped",
         "id": "map"
     },
     {
         "file": "melon",
+        "type": "haped",
         "id": "melon"
     },
     {
         "file": "melon_seeds",
+        "type": "hapeless",
         "id": "melon_seeds"
     },
     {
         "file": "minecart",
+        "type": "haped",
         "id": "minecart"
     },
     {
         "file": "mossy_cobblestone",
+        "type": "hapeless",
         "id": "mossy_cobblestone"
     },
     {
         "file": "mossy_cobblestone_wall",
+        "type": "haped",
         "id": "mossy_cobblestone_wall"
     },
     {
         "file": "mossy_stone_bricks",
+        "type": "hapeless",
         "id": "mossy_stone_bricks"
     },
     {
         "file": "mushroom_stew",
+        "type": "hapeless",
         "id": "mushroom_stew"
     },
     {
         "file": "nether_brick",
+        "type": "",
         "id": "nether_brick"
     },
     {
         "file": "nether_bricks",
+        "type": "haped",
         "id": "nether_bricks"
     },
     {
         "file": "nether_brick_fence",
+        "type": "haped",
         "id": "nether_brick_fence"
     },
     {
         "file": "nether_brick_slab",
+        "type": "haped",
         "id": "nether_brick_slab"
     },
     {
         "file": "nether_brick_stairs",
+        "type": "haped",
         "id": "nether_brick_stairs"
     },
     {
         "file": "nether_wart_block",
+        "type": "haped",
         "id": "nether_wart_block"
     },
     {
         "file": "note_block",
+        "type": "haped",
         "id": "note_block"
     },
     {
         "file": "oak_boat",
+        "type": "haped",
         "id": "oak_boat"
     },
     {
         "file": "oak_button",
+        "type": "hapeless",
         "id": "oak_button"
     },
     {
         "file": "oak_door",
+        "type": "haped",
         "id": "oak_door"
     },
     {
         "file": "oak_fence",
+        "type": "haped",
         "id": "oak_fence"
     },
     {
         "file": "oak_fence_gate",
+        "type": "haped",
         "id": "oak_fence_gate"
     },
     {
         "file": "oak_planks",
+        "type": "hapeless",
         "id": "oak_planks"
     },
     {
         "file": "oak_pressure_plate",
+        "type": "haped",
         "id": "oak_pressure_plate"
     },
     {
         "file": "oak_slab",
+        "type": "haped",
         "id": "oak_slab"
     },
     {
         "file": "oak_stairs",
+        "type": "haped",
         "id": "oak_stairs"
     },
     {
         "file": "oak_trapdoor",
+        "type": "haped",
         "id": "oak_trapdoor"
     },
     {
         "file": "oak_wood",
+        "type": "haped",
         "id": "oak_wood"
     },
     {
         "file": "observer",
+        "type": "haped",
         "id": "observer"
     },
     {
         "file": "orange_banner",
+        "type": "haped",
         "id": "orange_banner"
     },
     {
         "file": "orange_bed",
+        "type": "haped",
         "id": "orange_bed"
     },
     {
         "file": "orange_bed_from_white_bed",
+        "type": "hapeless",
         "id": "orange_bed"
     },
     {
         "file": "orange_carpet",
+        "type": "haped",
         "id": "orange_carpet"
     },
     {
         "file": "orange_concrete_powder",
+        "type": "hapeless",
         "id": "orange_concrete_powder"
     },
     {
         "file": "orange_dye_from_orange_tulip",
+        "type": "hapeless",
         "id": "orange_dye"
     },
     {
         "file": "orange_dye_from_red_yellow",
+        "type": "hapeless",
         "id": "orange_dye"
     },
     {
         "file": "orange_glazed_terracotta",
+        "type": "",
         "id": "orange_glazed_terracotta"
     },
     {
         "file": "orange_stained_glass",
+        "type": "haped",
         "id": "orange_stained_glass"
     },
     {
         "file": "orange_stained_glass_pane",
+        "type": "haped",
         "id": "orange_stained_glass_pane"
     },
     {
         "file": "orange_terracotta",
+        "type": "haped",
         "id": "orange_terracotta"
     },
     {
         "file": "orange_wool",
+        "type": "hapeless",
         "id": "orange_wool"
     },
     {
         "file": "packed_ice",
+        "type": "hapeless",
         "id": "packed_ice"
     },
     {
         "file": "painting",
+        "type": "haped",
         "id": "painting"
     },
     {
         "file": "paper",
+        "type": "haped",
         "id": "paper"
     },
     {
         "file": "pink_banner",
+        "type": "haped",
         "id": "pink_banner"
     },
     {
         "file": "pink_bed",
+        "type": "haped",
         "id": "pink_bed"
     },
     {
         "file": "pink_bed_from_white_bed",
+        "type": "hapeless",
         "id": "pink_bed"
     },
     {
         "file": "pink_carpet",
+        "type": "haped",
         "id": "pink_carpet"
     },
     {
         "file": "pink_concrete_powder",
+        "type": "hapeless",
         "id": "pink_concrete_powder"
     },
     {
         "file": "pink_dye_from_peony",
+        "type": "hapeless",
         "id": "pink_dye"
     },
     {
         "file": "pink_dye_from_pink_tulip",
+        "type": "hapeless",
         "id": "pink_dye"
     },
     {
         "file": "pink_dye_from_red_bonemeal",
+        "type": "hapeless",
         "id": "pink_dye"
     },
     {
         "file": "pink_glazed_terracotta",
+        "type": "",
         "id": "pink_glazed_terracotta"
     },
     {
         "file": "pink_stained_glass",
+        "type": "haped",
         "id": "pink_stained_glass"
     },
     {
         "file": "pink_stained_glass_pane",
+        "type": "haped",
         "id": "pink_stained_glass_pane"
     },
     {
         "file": "pink_terracotta",
+        "type": "haped",
         "id": "pink_terracotta"
     },
     {
         "file": "pink_wool",
+        "type": "hapeless",
         "id": "pink_wool"
     },
     {
         "file": "piston",
+        "type": "haped",
         "id": "piston"
     },
     {
         "file": "polished_andesite",
+        "type": "haped",
         "id": "polished_andesite"
     },
     {
         "file": "polished_diorite",
+        "type": "haped",
         "id": "polished_diorite"
     },
     {
         "file": "polished_granite",
+        "type": "haped",
         "id": "polished_granite"
     },
     {
         "file": "popped_chorus_fruit",
+        "type": "",
         "id": "popped_chorus_fruit"
     },
     {
         "file": "powered_rail",
+        "type": "haped",
         "id": "powered_rail"
     },
     {
         "file": "prismarine",
+        "type": "haped",
         "id": "prismarine"
     },
     {
         "file": "prismarine_bricks",
+        "type": "haped",
         "id": "prismarine_bricks"
     },
     {
         "file": "prismarine_brick_slab",
+        "type": "haped",
         "id": "prismarine_brick_slab"
     },
     {
         "file": "prismarine_brick_stairs",
+        "type": "haped",
         "id": "prismarine_brick_stairs"
     },
     {
         "file": "prismarine_slab",
+        "type": "haped",
         "id": "prismarine_slab"
     },
     {
         "file": "prismarine_stairs",
+        "type": "haped",
         "id": "prismarine_stairs"
     },
     {
         "file": "pumpkin_pie",
+        "type": "hapeless",
         "id": "pumpkin_pie"
     },
     {
         "file": "pumpkin_seeds",
+        "type": "hapeless",
         "id": "pumpkin_seeds"
     },
     {
         "file": "purple_banner",
+        "type": "haped",
         "id": "purple_banner"
     },
     {
         "file": "purple_bed",
+        "type": "haped",
         "id": "purple_bed"
     },
     {
         "file": "purple_bed_from_white_bed",
+        "type": "hapeless",
         "id": "purple_bed"
     },
     {
         "file": "purple_carpet",
+        "type": "haped",
         "id": "purple_carpet"
     },
     {
         "file": "purple_concrete_powder",
+        "type": "hapeless",
         "id": "purple_concrete_powder"
     },
     {
         "file": "purple_dye",
+        "type": "hapeless",
         "id": "purple_dye"
     },
     {
         "file": "purple_glazed_terracotta",
+        "type": "",
         "id": "purple_glazed_terracotta"
     },
     {
         "file": "purple_stained_glass",
+        "type": "haped",
         "id": "purple_stained_glass"
     },
     {
         "file": "purple_stained_glass_pane",
+        "type": "haped",
         "id": "purple_stained_glass_pane"
     },
     {
         "file": "purple_terracotta",
+        "type": "haped",
         "id": "purple_terracotta"
     },
     {
         "file": "purple_wool",
+        "type": "hapeless",
         "id": "purple_wool"
     },
     {
         "file": "purpur_block",
+        "type": "haped",
         "id": "purpur_block"
     },
     {
         "file": "purpur_pillar",
+        "type": "haped",
         "id": "purpur_pillar"
     },
     {
         "file": "purpur_slab",
+        "type": "haped",
         "id": "purpur_slab"
     },
     {
         "file": "purpur_stairs",
+        "type": "haped",
         "id": "purpur_stairs"
     },
     {
         "file": "quartz",
+        "type": "",
         "id": "quartz"
     },
     {
         "file": "quartz_block",
+        "type": "haped",
         "id": "quartz_block"
     },
     {
         "file": "quartz_pillar",
+        "type": "haped",
         "id": "quartz_pillar"
     },
     {
         "file": "quartz_slab",
+        "type": "haped",
         "id": "quartz_slab"
     },
     {
         "file": "quartz_stairs",
+        "type": "haped",
         "id": "quartz_stairs"
     },
     {
         "file": "rabbit_stew_from_brown_mushroom",
+        "type": "haped",
         "id": "rabbit_stew"
     },
     {
         "file": "rabbit_stew_from_red_mushroom",
+        "type": "haped",
         "id": "rabbit_stew"
     },
     {
         "file": "rail",
+        "type": "haped",
         "id": "rail"
     },
     {
         "file": "redstone",
+        "type": "hapeless",
         "id": "redstone"
     },
     {
         "file": "redstone_block",
+        "type": "haped",
         "id": "redstone_block"
     },
     {
         "file": "redstone_from_smelting",
+        "type": "",
         "id": "redstone"
     },
     {
         "file": "redstone_lamp",
+        "type": "haped",
         "id": "redstone_lamp"
     },
     {
         "file": "redstone_torch",
+        "type": "haped",
         "id": "redstone_torch"
     },
     {
         "file": "red_banner",
+        "type": "haped",
         "id": "red_banner"
     },
     {
         "file": "red_bed",
+        "type": "haped",
         "id": "red_bed"
     },
     {
         "file": "red_bed_from_white_bed",
+        "type": "hapeless",
         "id": "red_bed"
     },
     {
         "file": "red_carpet",
+        "type": "haped",
         "id": "red_carpet"
     },
     {
         "file": "red_concrete_powder",
+        "type": "hapeless",
         "id": "red_concrete_powder"
     },
     {
         "file": "red_dye_from_beetroot",
+        "type": "hapeless",
         "id": "rose_red"
     },
     {
         "file": "red_dye_from_poppy",
+        "type": "hapeless",
         "id": "rose_red"
     },
     {
         "file": "red_dye_from_rose_bush",
+        "type": "hapeless",
         "id": "rose_red"
     },
     {
         "file": "red_dye_from_tulip",
+        "type": "hapeless",
         "id": "rose_red"
     },
     {
         "file": "red_glazed_terracotta",
+        "type": "",
         "id": "red_glazed_terracotta"
     },
     {
         "file": "red_nether_bricks",
+        "type": "haped",
         "id": "red_nether_bricks"
     },
     {
         "file": "red_sandstone",
+        "type": "haped",
         "id": "red_sandstone"
     },
     {
         "file": "red_sandstone_slab",
+        "type": "haped",
         "id": "red_sandstone_slab"
     },
     {
         "file": "red_sandstone_stairs",
+        "type": "haped",
         "id": "red_sandstone_stairs"
     },
     {
         "file": "red_stained_glass",
+        "type": "haped",
         "id": "red_stained_glass"
     },
     {
         "file": "red_stained_glass_pane",
+        "type": "haped",
         "id": "red_stained_glass_pane"
     },
     {
         "file": "red_terracotta",
+        "type": "haped",
         "id": "red_terracotta"
     },
     {
         "file": "red_wool",
+        "type": "hapeless",
         "id": "red_wool"
     },
     {
         "file": "repeater",
+        "type": "haped",
         "id": "repeater"
     },
     {
         "file": "sandstone",
+        "type": "haped",
         "id": "sandstone"
     },
     {
         "file": "sandstone_slab",
+        "type": "haped",
         "id": "sandstone_slab"
     },
     {
         "file": "sandstone_stairs",
+        "type": "haped",
         "id": "sandstone_stairs"
     },
     {
         "file": "sea_lantern",
+        "type": "haped",
         "id": "sea_lantern"
     },
     {
         "file": "shears",
+        "type": "haped",
         "id": "shears"
     },
     {
         "file": "shield",
+        "type": "haped",
         "id": "shield"
     },
     {
         "file": "shulker_box",
+        "type": "haped",
         "id": "shulker_box"
     },
     {
         "file": "sign",
+        "type": "haped",
         "id": "sign"
     },
     {
         "file": "slime_ball",
+        "type": "hapeless",
         "id": "slime_ball"
     },
     {
         "file": "slime_block",
+        "type": "haped",
         "id": "slime_block"
     },
     {
         "file": "snow",
+        "type": "haped",
         "id": "snow"
     },
     {
         "file": "snow_block",
+        "type": "haped",
         "id": "snow_block"
     },
     {
         "file": "spectral_arrow",
+        "type": "haped",
         "id": "spectral_arrow"
     },
     {
         "file": "sponge",
+        "type": "",
         "id": "sponge"
     },
     {
         "file": "spruce_boat",
+        "type": "haped",
         "id": "spruce_boat"
     },
     {
         "file": "spruce_button",
+        "type": "hapeless",
         "id": "spruce_button"
     },
     {
         "file": "spruce_door",
+        "type": "haped",
         "id": "spruce_door"
     },
     {
         "file": "spruce_fence",
+        "type": "haped",
         "id": "spruce_fence"
     },
     {
         "file": "spruce_fence_gate",
+        "type": "haped",
         "id": "spruce_fence_gate"
     },
     {
         "file": "spruce_planks",
+        "type": "hapeless",
         "id": "spruce_planks"
     },
     {
         "file": "spruce_pressure_plate",
+        "type": "haped",
         "id": "spruce_pressure_plate"
     },
     {
         "file": "spruce_slab",
+        "type": "haped",
         "id": "spruce_slab"
     },
     {
         "file": "spruce_stairs",
+        "type": "haped",
         "id": "spruce_stairs"
     },
     {
         "file": "spruce_trapdoor",
+        "type": "haped",
         "id": "spruce_trapdoor"
     },
     {
         "file": "spruce_wood",
+        "type": "haped",
         "id": "spruce_wood"
     },
     {
         "file": "stick",
+        "type": "haped",
         "id": "stick"
     },
     {
         "file": "sticky_piston",
+        "type": "haped",
         "id": "sticky_piston"
     },
     {
         "file": "stone",
+        "type": "",
         "id": "stone"
     },
     {
         "file": "stone_axe",
+        "type": "haped",
         "id": "stone_axe"
     },
     {
         "file": "stone_bricks",
+        "type": "haped",
         "id": "stone_bricks"
     },
     {
         "file": "stone_brick_slab",
+        "type": "haped",
         "id": "stone_brick_slab"
     },
     {
         "file": "stone_brick_stairs",
+        "type": "haped",
         "id": "stone_brick_stairs"
     },
     {
         "file": "stone_button",
+        "type": "hapeless",
         "id": "stone_button"
     },
     {
         "file": "stone_hoe",
+        "type": "haped",
         "id": "stone_hoe"
     },
     {
         "file": "stone_pickaxe",
+        "type": "haped",
         "id": "stone_pickaxe"
     },
     {
         "file": "stone_pressure_plate",
+        "type": "haped",
         "id": "stone_pressure_plate"
     },
     {
         "file": "stone_shovel",
+        "type": "haped",
         "id": "stone_shovel"
     },
     {
         "file": "stone_slab",
+        "type": "haped",
         "id": "stone_slab"
     },
     {
         "file": "stone_sword",
+        "type": "haped",
         "id": "stone_sword"
     },
     {
         "file": "sugar",
+        "type": "hapeless",
         "id": "sugar"
     },
     {
         "file": "terracotta",
+        "type": "",
         "id": "terracotta"
     },
     {
         "file": "tnt",
+        "type": "haped",
         "id": "tnt"
     },
     {
         "file": "tnt_minecart",
+        "type": "haped",
         "id": "tnt_minecart"
     },
     {
         "file": "torch",
+        "type": "haped",
         "id": "torch"
     },
     {
         "file": "trapped_chest",
+        "type": "hapeless",
         "id": "trapped_chest"
     },
     {
         "file": "tripwire_hook",
+        "type": "haped",
         "id": "tripwire_hook"
     },
     {
         "file": "turtle_helmet",
+        "type": "haped",
         "id": "turtle_helmet"
     },
     {
         "file": "wheat",
+        "type": "hapeless",
         "id": "wheat"
     },
     {
         "file": "white_banner",
+        "type": "haped",
         "id": "white_banner"
     },
     {
         "file": "white_bed",
+        "type": "haped",
         "id": "white_bed"
     },
     {
         "file": "white_carpet",
+        "type": "haped",
         "id": "white_carpet"
     },
     {
         "file": "white_concrete_powder",
+        "type": "hapeless",
         "id": "white_concrete_powder"
     },
     {
         "file": "white_glazed_terracotta",
+        "type": "",
         "id": "white_glazed_terracotta"
     },
     {
         "file": "white_stained_glass",
+        "type": "haped",
         "id": "white_stained_glass"
     },
     {
         "file": "white_stained_glass_pane",
+        "type": "haped",
         "id": "white_stained_glass_pane"
     },
     {
         "file": "white_terracotta",
+        "type": "haped",
         "id": "white_terracotta"
     },
     {
         "file": "white_wool_from_string",
+        "type": "haped",
         "id": "white_wool"
     },
     {
         "file": "wooden_axe",
+        "type": "haped",
         "id": "wooden_axe"
     },
     {
         "file": "wooden_hoe",
+        "type": "haped",
         "id": "wooden_hoe"
     },
     {
         "file": "wooden_pickaxe",
+        "type": "haped",
         "id": "wooden_pickaxe"
     },
     {
         "file": "wooden_shovel",
+        "type": "haped",
         "id": "wooden_shovel"
     },
     {
         "file": "wooden_sword",
+        "type": "haped",
         "id": "wooden_sword"
     },
     {
         "file": "writable_book",
+        "type": "hapeless",
         "id": "writable_book"
     },
     {
         "file": "yellow_banner",
+        "type": "haped",
         "id": "yellow_banner"
     },
     {
         "file": "yellow_bed",
+        "type": "haped",
         "id": "yellow_bed"
     },
     {
         "file": "yellow_bed_from_white_bed",
+        "type": "hapeless",
         "id": "yellow_bed"
     },
     {
         "file": "yellow_carpet",
+        "type": "haped",
         "id": "yellow_carpet"
     },
     {
         "file": "yellow_concrete_powder",
+        "type": "hapeless",
         "id": "yellow_concrete_powder"
     },
     {
         "file": "yellow_dye_from_dandelion",
+        "type": "hapeless",
         "id": "dandelion_yellow"
     },
     {
         "file": "yellow_dye_from_sunflower",
+        "type": "hapeless",
         "id": "dandelion_yellow"
     },
     {
         "file": "yellow_glazed_terracotta",
+        "type": "",
         "id": "yellow_glazed_terracotta"
     },
     {
         "file": "yellow_stained_glass",
+        "type": "haped",
         "id": "yellow_stained_glass"
     },
     {
         "file": "yellow_stained_glass_pane",
+        "type": "haped",
         "id": "yellow_stained_glass_pane"
     },
     {
         "file": "yellow_terracotta",
+        "type": "haped",
         "id": "yellow_terracotta"
     },
     {
         "file": "yellow_wool",
+        "type": "hapeless",
         "id": "yellow_wool"
     }
 ]
