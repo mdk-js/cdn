@@ -3,6 +3,10 @@ const path = require('path')
 
 const versions = ['1.13', '1.14', '1.15', '1.16', '1.17', '1.18', '1.19']
 
+function trimPrefix(text) {
+    return text.startsWith('minecraft:') ? text.slice(10) : text
+}
+
 versions.forEach(v => {
     const dir = path.resolve(__dirname, '../dist/recipes', v)
     const list = fs.readdirSync(dir).map(e => {
@@ -12,8 +16,8 @@ versions.forEach(v => {
         }
         return {
             file: e.slice(0, -5),
-            type: type.slice(10),
-            id: typeof result === 'string' ? result.slice(10) : result.item.slice(10),
+            type: trimPrefix(type),
+            id: typeof result === 'string' ? trimPrefix(result) : trimPrefix(result.item),
         }
     }).filter(Boolean)
     fs.writeFileSync(path.resolve(__dirname, '../dist', v + '.json'), JSON.stringify(list, null, 4))
