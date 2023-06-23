@@ -1,0 +1,19 @@
+{
+  "name": "@wikijs/mc-recipes",
+  "version": "1.0.7",
+  "description": "",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "minecraft",
+    "recipe"
+  ],
+  "files": [
+    "dist",
+    "package.json",
+    "readme.md"
+  ],
+  "author": "",
+  "license": "MIT"
+}

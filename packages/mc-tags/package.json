@@ -1,0 +1,19 @@
+{
+  "name": "@wikijs/mc-tags",
+  "version": "1.0.2",
+  "description": "",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "minecraft",
+    "tags"
+  ],
+  "files": [
+    "dist",
+    "package.json",
+    "readme.md"
+  ],
+  "author": "",
+  "license": "MIT"
+}

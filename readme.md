@@ -1,4 +1,4 @@
-# cdn
+# mc-cdn
 
 # License
 [MIT](./license)

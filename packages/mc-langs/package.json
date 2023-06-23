@@ -1,0 +1,19 @@
+{
+  "name": "@wikijs/mc-langs",
+  "version": "1.0.0",
+  "description": "",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "minecrafat",
+    "lang"
+  ],
+  "files": [
+    "dist",
+    "package.json",
+    "readme.md"
+  ],
+  "author": "",
+  "license": "MIT"
+}
